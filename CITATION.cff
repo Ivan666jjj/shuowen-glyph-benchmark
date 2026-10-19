@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "如果使用本 benchmark，请引用以下条目。"
+title: "字形表义性 Benchmark（Glyph Meaningfulness Benchmark）"
+abstract: "一套可复用的评测流程，用来检验 AI 造出的字形是否承载意义：造字、释字、可学性、结构指标（RSA/CKA/互信息）与人类评分。"
+authors:
+  - family-names: "严"
+    given-names: "毓焕"
+    alias: "Yan Yuhuan"
+    affiliation: "中国人民大学"
+version: "0.1.0"
+date-released: "2026-10-19"
+license: "MIT"
+repository-code: "https://github.com/Ivan666jjj/shuowen-glyph-benchmark"
+keywords:
+  - "数字人文"
+  - "说文解字"
+  - "机器造字"
+  - "字形表义性"
+  - "benchmark"

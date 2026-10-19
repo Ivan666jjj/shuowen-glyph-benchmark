@@ -1,0 +1,5 @@
+# 运行评分脚本所需依赖
+# 主实验脚本（造字/释字）依赖 Node.js 与 API key，见主仓库 README
+
+numpy>=1.24
+certifi>=2023.0

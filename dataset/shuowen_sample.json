@@ -1,0 +1,602 @@
+[
+  {
+    "char": "一",
+    "radical": "一部",
+    "pinyin": "yi1",
+    "content": "惟初太始，道立於一，造分天地，化成萬物。凡一之屬皆从一。"
+  },
+  {
+    "char": "元",
+    "radical": "一部",
+    "pinyin": "yuan2",
+    "content": "始也。从一从兀。"
+  },
+  {
+    "char": "天",
+    "radical": "一部",
+    "pinyin": "tian1",
+    "content": "顚也。至高無上，从一、大。"
+  },
+  {
+    "char": "丕",
+    "radical": "一部",
+    "pinyin": "pi1",
+    "content": "大也。从一不聲。"
+  },
+  {
+    "char": "吏",
+    "radical": "一部",
+    "pinyin": "li4",
+    "content": "治人者也。从一从史，史亦聲。"
+  },
+  {
+    "char": "丄",
+    "radical": "丄部",
+    "pinyin": "shang4",
+    "content": "高也。此古文上，指事也。凡丄之屬皆从丄。"
+  },
+  {
+    "char": "帝",
+    "radical": "丄部",
+    "pinyin": "di4",
+    "content": "諦也。王天下之號也。从丄朿聲。"
+  },
+  {
+    "char": "旁",
+    "radical": "丄部",
+    "pinyin": "pang2",
+    "content": "溥也。从二，闕；方聲。"
+  },
+  {
+    "char": "丅",
+    "radical": "丄部",
+    "pinyin": "xia4",
+    "content": "底也。指事。"
+  },
+  {
+    "char": "示",
+    "radical": "示部",
+    "pinyin": "shi4",
+    "content": "天垂象，見吉凶，所以示人也。从二。(二，古文上字。)三垂，日月星也。觀乎天文，以察時變。示，神事也。凡示之屬皆从示。"
+  },
+  {
+    "char": "祜",
+    "radical": "示部",
+    "pinyin": "hu4",
+    "content": "上諱。"
+  },
+  {
+    "char": "禮",
+    "radical": "示部",
+    "pinyin": "li3",
+    "content": "履也。所以事神致福也。从示从豊，豊亦聲。"
+  },
+  {
+    "char": "禧",
+    "radical": "示部",
+    "pinyin": "xi1/xi3",
+    "content": "禮吉也。从示喜聲。"
+  },
+  {
+    "char": "禛",
+    "radical": "示部",
+    "pinyin": "zhen1",
+    "content": "以眞受福也。从示眞聲。"
+  },
+  {
+    "char": "祿",
+    "radical": "示部",
+    "pinyin": "lu4",
+    "content": "福也。从示彔聲。"
+  },
+  {
+    "char": "禠",
+    "radical": "示部",
+    "pinyin": "si1",
+    "content": "福也。从示虒聲。"
+  },
+  {
+    "char": "禎",
+    "radical": "示部",
+    "pinyin": "zhen1",
+    "content": "祥也。从示貞聲。"
+  },
+  {
+    "char": "祥",
+    "radical": "示部",
+    "pinyin": "xiang2",
+    "content": "福也。从示羊聲。一云善。"
+  },
+  {
+    "char": "祉",
+    "radical": "示部",
+    "pinyin": "zhi3",
+    "content": "福也。从示止聲。"
+  },
+  {
+    "char": "福",
+    "radical": "示部",
+    "pinyin": "fu2",
+    "content": "祐也。从示畐聲。"
+  },
+  {
+    "char": "祐",
+    "radical": "示部",
+    "pinyin": "you4",
+    "content": "助也。从示右聲。"
+  },
+  {
+    "char": "祺",
+    "radical": "示部",
+    "pinyin": "qi2",
+    "content": "吉也。从示其聲。"
+  },
+  {
+    "char": "祗",
+    "radical": "示部",
+    "pinyin": "zhi1/qi1/chi2",
+    "content": "敬也。从示氐聲。"
+  },
+  {
+    "char": "禔",
+    "radical": "示部",
+    "pinyin": "shi2/zhi1",
+    "content": "安福也。从示是聲。《易》曰：\"禔旣平。\""
+  },
+  {
+    "char": "神",
+    "radical": "示部",
+    "pinyin": "shen2",
+    "content": "天神，引出萬物者也。从示、申。"
+  },
+  {
+    "char": "祇",
+    "radical": "示部",
+    "pinyin": "qi2/chi2",
+    "content": "地祇，提出萬物者也。从示氏聲。"
+  },
+  {
+    "char": "祕",
+    "radical": "示部",
+    "pinyin": "mi4/bi4",
+    "content": "神也。从示必聲。"
+  },
+  {
+    "char": "齋",
+    "radical": "示部",
+    "pinyin": "zhai1",
+    "content": "戒，潔也。从示，齊省聲。"
+  },
+  {
+    "char": "禋",
+    "radical": "示部",
+    "pinyin": "yin1",
+    "content": "潔祀也。一曰精意以享爲禋。从示垔聲。"
+  },
+  {
+    "char": "祭",
+    "radical": "示部",
+    "pinyin": "ji4",
+    "content": "祭祀也。从示，以手持肉。"
+  },
+  {
+    "char": "祀",
+    "radical": "示部",
+    "pinyin": "si4",
+    "content": "祭無已也。从示巳聲。"
+  },
+  {
+    "char": "祡",
+    "radical": "示部",
+    "pinyin": "chai2",
+    "content": "燒祡燓燎以祭天神。从示此聲。《虞書》曰：\"至于岱宗，祡。\""
+  },
+  {
+    "char": "禷",
+    "radical": "示部",
+    "pinyin": "lei4",
+    "content": "以事類祭天神。从示類聲。"
+  },
+  {
+    "char": "祪",
+    "radical": "示部",
+    "pinyin": "gui3",
+    "content": "祔、祪，祖也。从示危聲。"
+  },
+  {
+    "char": "祔",
+    "radical": "示部",
+    "pinyin": "fu4/fu3",
+    "content": "後死者合食於先祖。从示付聲。"
+  },
+  {
+    "char": "祖",
+    "radical": "示部",
+    "pinyin": "zu3",
+    "content": "始廟也。从示且聲。"
+  },
+  {
+    "char": "𥛱",
+    "radical": "示部",
+    "pinyin": "beng1",
+    "content": "門内祭，先祖所以徬徨。从示彭聲。《詩》曰：\"祝祭于□。\""
+  },
+  {
+    "char": "祰",
+    "radical": "示部",
+    "pinyin": "gao3/kao4/kao3/gao4",
+    "content": "告祭也。从示从告聲。"
+  },
+  {
+    "char": "祏",
+    "radical": "示部",
+    "pinyin": "shi2",
+    "content": "宗廟主也。《周禮》有郊、宗、石室。一曰大夫以石爲主。从示从石，石亦聲。"
+  },
+  {
+    "char": "䃾",
+    "radical": "示部",
+    "pinyin": "bi3/bi4",
+    "content": "以豚祠司命。从示比聲。漢律曰：\"祠□司命。\""
+  },
+  {
+    "char": "祠",
+    "radical": "示部",
+    "pinyin": "ci2",
+    "content": "春祭曰祠。品物少，多文詞也。从示司聲。仲春之月，祠不用犧牲，用圭璧及皮幣。"
+  },
+  {
+    "char": "礿",
+    "radical": "示部",
+    "pinyin": "yue4",
+    "content": "夏祭也。从示勺聲。"
+  },
+  {
+    "char": "禘",
+    "radical": "示部",
+    "pinyin": "di4",
+    "content": "諦祭也。从示帝聲。《周禮》曰：\"五歲一禘。\""
+  },
+  {
+    "char": "祫",
+    "radical": "示部",
+    "pinyin": "xia2",
+    "content": "大合祭先祖親疏遠近也。从示、合。《周禮》曰：\"三歲一祫。\""
+  },
+  {
+    "char": "祼",
+    "radical": "示部",
+    "pinyin": "guan4",
+    "content": "灌祭也。从示果聲。"
+  },
+  {
+    "char": "䄟",
+    "radical": "示部",
+    "pinyin": "cui4",
+    "content": "數祭也。从示毳聲。讀若舂麥爲□之□。"
+  },
+  {
+    "char": "祝",
+    "radical": "示部",
+    "pinyin": "zhu4",
+    "content": "祭主贊詞者。从示从人口。一曰从兌省。《易》曰：\"兌爲口爲巫。\"。"
+  },
+  {
+    "char": "𥛽",
+    "radical": "示部",
+    "pinyin": "liu4",
+    "content": "祝□也。从示畱聲。"
+  },
+  {
+    "char": "祓",
+    "radical": "示部",
+    "pinyin": "fu2",
+    "content": "除惡祭也。从示犮聲。"
+  },
+  {
+    "char": "祈",
+    "radical": "示部",
+    "pinyin": "qi2",
+    "content": "求福也。从示斤聲。"
+  },
+  {
+    "char": "禱",
+    "radical": "示部",
+    "pinyin": "dao3",
+    "content": "告事求福也。从示壽聲。"
+  },
+  {
+    "char": "禜",
+    "radical": "示部",
+    "pinyin": "yong2/yong3/ying2/yong4",
+    "content": "設緜蕝爲營，以禳風雨、雪霜、水旱、癘疫於日月星辰山川也。从示，榮省聲。一曰禜、衞，使灾不生。《禮記》曰：\"雩，禜。祭水旱。\""
+  },
+  {
+    "char": "禳",
+    "radical": "示部",
+    "pinyin": "rang2",
+    "content": "磔禳祀，除癘殃也。古者燧人禜子所造。从示襄聲。"
+  },
+  {
+    "char": "襘",
+    "radical": "示部",
+    "pinyin": "gui4",
+    "content": "會福祭也。从示从會，會亦聲。《周禮》曰：\"禬之祝號。\""
+  },
+  {
+    "char": "禪",
+    "radical": "示部",
+    "pinyin": "shan4/chan2",
+    "content": "祭天也。从示單聲。"
+  },
+  {
+    "char": "禦",
+    "radical": "示部",
+    "pinyin": "yu4",
+    "content": "祀也。从示御聲。"
+  },
+  {
+    "char": "䄆",
+    "radical": "示部",
+    "pinyin": "huo2",
+    "content": "祀也。从示□聲。"
+  },
+  {
+    "char": "禖",
+    "radical": "示部",
+    "pinyin": "mei2",
+    "content": "祭也。从示某聲。"
+  },
+  {
+    "char": "𥚩",
+    "radical": "示部",
+    "pinyin": "xu3",
+    "content": "祭具也。从示胥聲。"
+  },
+  {
+    "char": "祳",
+    "radical": "示部",
+    "pinyin": "shen4",
+    "content": "社肉，盛以蜃，故謂之祳。天子所以親遺同姓。从示辰聲。《春秋傳》曰：\"石尚來歸祳。\""
+  },
+  {
+    "char": "祴",
+    "radical": "示部",
+    "pinyin": "gai1",
+    "content": "宗廟奏祴樂。从示戒聲。"
+  },
+  {
+    "char": "禡",
+    "radical": "示部",
+    "pinyin": "ma4",
+    "content": "師行所止，恐有慢其神，下而祀之曰禡。从示馬聲。《周禮》曰：\"禡於所征之地。\""
+  },
+  {
+    "char": "禂",
+    "radical": "示部",
+    "pinyin": "dao3",
+    "content": "禱牲馬祭也。从示周聲。《詩》曰：\"旣禡旣禂。\""
+  },
+  {
+    "char": "社",
+    "radical": "示部",
+    "pinyin": "she4",
+    "content": "地主也。从示、土。《春秋傳》曰：\"共工之子句龍爲社神。\"《周禮》：\"二十五家爲社，各樹其土所宜之木。\""
+  },
+  {
+    "char": "禓",
+    "radical": "示部",
+    "pinyin": "shang1/yang2",
+    "content": "道上祭。从示昜聲。"
+  },
+  {
+    "char": "祲",
+    "radical": "示部",
+    "pinyin": "jin4/jin1",
+    "content": "精氣感祥。从示，□省聲。《春秋傳》曰：\"見赤黑之□。\""
+  },
+  {
+    "char": "禍",
+    "radical": "示部",
+    "pinyin": "huo4",
+    "content": "害也，神不福也。从示咼聲。"
+  },
+  {
+    "char": "祟",
+    "radical": "示部",
+    "pinyin": "sui4",
+    "content": "神禍也。从示从出。"
+  },
+  {
+    "char": "䄏",
+    "radical": "示部",
+    "pinyin": "yao1",
+    "content": "地反物爲□也。从示芺聲。"
+  },
+  {
+    "char": "祘",
+    "radical": "示部",
+    "pinyin": "suan4",
+    "content": "明視以筭之。从二示。《逸周書》曰：\"士分民之祘。均分以祘之也。\"读若筭。"
+  },
+  {
+    "char": "禁",
+    "radical": "示部",
+    "pinyin": "jin4",
+    "content": "吉凶之忌也。从示林聲。"
+  },
+  {
+    "char": "禫",
+    "radical": "示部",
+    "pinyin": "dan4",
+    "content": "除服祭也。从示覃聲。"
+  },
+  {
+    "char": "禰",
+    "radical": "示部",
+    "pinyin": "ni3/mi3",
+    "content": "親廟也。从示爾聲。一本云古文□也。"
+  },
+  {
+    "char": "祧",
+    "radical": "示部",
+    "pinyin": "tiao1",
+    "content": "遷廟也。从示兆聲。"
+  },
+  {
+    "char": "祆",
+    "radical": "示部",
+    "pinyin": "xian1",
+    "content": "胡神也。从示天聲。"
+  },
+  {
+    "char": "祚",
+    "radical": "示部",
+    "pinyin": "zuo4",
+    "content": "福也。从示乍聲。"
+  },
+  {
+    "char": "三",
+    "radical": "三部",
+    "pinyin": "san1",
+    "content": "天地人之道也。从三數。凡三之屬皆从三。"
+  },
+  {
+    "char": "王",
+    "radical": "王部",
+    "pinyin": "wang2",
+    "content": "天下所歸往也。董仲舒曰：\"古之造文者，三畫而連其中謂之王。三者，天、地、人也，而參通之者王也。\"孔子曰：\"一貫三爲王。\"凡王之屬皆从王。[李陽冰曰：\"中畫近上。王者，則天之義。\"]"
+  },
+  {
+    "char": "閏",
+    "radical": "王部",
+    "pinyin": "run4",
+    "content": "餘分之月，五歲再閏，告朔之禮，天子居宗廟，閏月居門中。从王在門中。《周禮》曰：\"閏月，王居門中，終月也。\""
+  },
+  {
+    "char": "皇",
+    "radical": "王部",
+    "pinyin": "huang2",
+    "content": "大也。从自。自，始也。始皇者，三皇，大君也。自，讀若鼻，今俗以始生子爲鼻子。"
+  },
+  {
+    "char": "玉",
+    "radical": "玉部",
+    "pinyin": "yu4",
+    "content": "石之美。有五德：潤澤以溫，仁之方也；□理自外，可以知中，義之方也；其聲舒揚，尃以遠聞，智之方也；不橈而折，勇之方也；銳廉而不技，絜之方也。象三玉之連。丨，其貫也。凡玉之屬皆从玉。[陽冰曰：\"三畫正均如貫玉也。\"]"
+  },
+  {
+    "char": "璙",
+    "radical": "玉部",
+    "pinyin": "liao2",
+    "content": "玉也。从玉尞聲。"
+  },
+  {
+    "char": "瓘",
+    "radical": "玉部",
+    "pinyin": "guan4",
+    "content": "玉也。从玉雚聲。《春秋傳》曰：\"瓘斚。\""
+  },
+  {
+    "char": "璥",
+    "radical": "玉部",
+    "pinyin": "jing3",
+    "content": "玉也。从玉敬聲。"
+  },
+  {
+    "char": "琠",
+    "radical": "玉部",
+    "pinyin": "tian3/dian3",
+    "content": "玉也。从玉典聲。"
+  },
+  {
+    "char": "𤫕",
+    "radical": "玉部",
+    "pinyin": "nao2/rou2",
+    "content": "玉也。从玉夒聲。讀若柔。"
+  },
+  {
+    "char": "□",
+    "radical": "玉部",
+    "pinyin": "li4",
+    "content": "玉也。从玉毄聲。讀若鬲。"
+  },
+  {
+    "char": "璠",
+    "radical": "玉部",
+    "pinyin": "fan2",
+    "content": "璵璠。魯之寶玉。从玉番聲。孔子曰：\"美哉璵璠。遠而望之，奐若也；近而視之，瑟若也。一則理勝，二則孚勝。\""
+  },
+  {
+    "char": "璵",
+    "radical": "玉部",
+    "pinyin": "yu2",
+    "content": "璵璠也。从玉與聲。"
+  },
+  {
+    "char": "瑾",
+    "radical": "玉部",
+    "pinyin": "jin3",
+    "content": "瑾瑜，美玉也。从玉堇聲。"
+  },
+  {
+    "char": "瑜",
+    "radical": "玉部",
+    "pinyin": "yu2",
+    "content": "瑾瑜，美玉也。从玉俞聲。"
+  },
+  {
+    "char": "玒",
+    "radical": "玉部",
+    "pinyin": "hong2",
+    "content": "玉也。从玉工聲。"
+  },
+  {
+    "char": "琜",
+    "radical": "玉部",
+    "pinyin": "lai2",
+    "content": "□瓄，玉也。从玉來聲。"
+  },
+  {
+    "char": "瓊",
+    "radical": "玉部",
+    "pinyin": "qiong2",
+    "content": "赤玉也。从玉敻聲。"
+  },
+  {
+    "char": "珦",
+    "radical": "玉部",
+    "pinyin": "xiang4",
+    "content": "玉也。从玉向聲。"
+  },
+  {
+    "char": "㻝",
+    "radical": "玉部",
+    "pinyin": "la4",
+    "content": "玉也。从玉剌聲。"
+  },
+  {
+    "char": "珣",
+    "radical": "玉部",
+    "pinyin": "xun2",
+    "content": "醫無閭珣玗琪，《周書》所謂夷玉也。从玉旬聲。一曰器，讀若宣。"
+  },
+  {
+    "char": "璐",
+    "radical": "玉部",
+    "pinyin": "lu4",
+    "content": "玉也。从玉路聲。"
+  },
+  {
+    "char": "瓒",
+    "radical": "玉部",
+    "pinyin": "zan4",
+    "content": "三玉二石也。从玉贊聲。《禮》：\"天子用全，純玉也；上公用駹，四玉一石；侯用瓚；伯用埒，玉石半相埒也。\""
+  },
+  {
+    "char": "瑛",
+    "radical": "玉部",
+    "pinyin": "ying1",
+    "content": "玉光也。从玉英聲。"
+  }
+]

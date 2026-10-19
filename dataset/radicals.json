@@ -1,0 +1,3746 @@
+[
+  {
+    "form": "一",
+    "char": "一",
+    "pinyin": "yi1",
+    "meaning": "惟初太始，道立於一，造分天地，化成萬物。凡一之屬皆从一。",
+    "radical": "一部",
+    "category": "数量"
+  },
+  {
+    "form": "丄",
+    "char": "丄",
+    "pinyin": "shang4",
+    "meaning": "高也。此古文上，指事也。凡丄之屬皆从丄。",
+    "radical": "丄部",
+    "category": "抽象"
+  },
+  {
+    "form": "示",
+    "char": "示",
+    "pinyin": "shi4",
+    "meaning": "天垂象，見吉凶，所以示人也。从二。(二，古文上字。)三垂，日月星也。觀乎天文，以",
+    "radical": "示部",
+    "category": "抽象"
+  },
+  {
+    "form": "三",
+    "char": "三",
+    "pinyin": "san1",
+    "meaning": "天地人之道也。从三數。凡三之屬皆从三。",
+    "radical": "三部",
+    "category": "数量"
+  },
+  {
+    "form": "王",
+    "char": "王",
+    "pinyin": "wang2",
+    "meaning": "天下所歸往也。董仲舒曰：\"古之造文者，三畫而連其中謂之王。三者，天、地、人也，而",
+    "radical": "王部",
+    "category": "抽象"
+  },
+  {
+    "form": "玉",
+    "char": "玉",
+    "pinyin": "yu4",
+    "meaning": "石之美。有五德：潤澤以溫，仁之方也；□理自外，可以知中，義之方也；其聲舒揚，尃以",
+    "radical": "玉部",
+    "category": "自然"
+  },
+  {
+    "form": "玨",
+    "char": "玨",
+    "pinyin": "jue2",
+    "meaning": "二玉相合爲一□。凡□之屬皆从□。",
+    "radical": "玨部",
+    "category": "抽象"
+  },
+  {
+    "form": "气",
+    "char": "气",
+    "pinyin": "qi4",
+    "meaning": "雲气也。象形。凡气之屬皆从气。",
+    "radical": "气部",
+    "category": "自然"
+  },
+  {
+    "form": "士",
+    "char": "士",
+    "pinyin": "shi4",
+    "meaning": "事也。數始於一，終於十。从一从十。孔子曰：\"推十合一爲士。\"凡士之屬皆从士。",
+    "radical": "士部",
+    "category": "抽象"
+  },
+  {
+    "form": "丨",
+    "char": "丨",
+    "pinyin": "gun3",
+    "meaning": "上下通也。引而上行讀若囟，引而下行讀若□。凡丨之屬皆从丨。",
+    "radical": "丨部",
+    "category": "抽象"
+  },
+  {
+    "form": "屮",
+    "char": "屮",
+    "pinyin": "che4",
+    "meaning": "艸木初生也。象丨出形，有枝莖也。古文或以爲艸字。讀若徹。凡屮之屬皆从屮。尹彤說。",
+    "radical": "屮部",
+    "category": "抽象"
+  },
+  {
+    "form": "艸",
+    "char": "艸",
+    "pinyin": "cao3",
+    "meaning": "百芔也。从二屮。凡艸之屬皆从艸。",
+    "radical": "艸部",
+    "category": "抽象"
+  },
+  {
+    "form": "□",
+    "char": "□",
+    "pinyin": "tang1/chang1",
+    "meaning": "艸。枝枝相値，葉葉相當。从艸昜聲。",
+    "radical": "□部",
+    "category": "抽象"
+  },
+  {
+    "form": "蓐",
+    "char": "蓐",
+    "pinyin": "ru4",
+    "meaning": "陳艸復生也。从艸辱聲。一曰蔟也。凡蓐之屬皆从蓐。",
+    "radical": "蓐部",
+    "category": "抽象"
+  },
+  {
+    "form": "茻",
+    "char": "茻",
+    "pinyin": "mang3",
+    "meaning": "眾艸也。从四屮。凡茻之屬皆从茻。讀與冈同。",
+    "radical": "茻部",
+    "category": "抽象"
+  },
+  {
+    "form": "小",
+    "char": "小",
+    "pinyin": "xiao3",
+    "meaning": "物之微也。从八，丨見而分之。凡小之屬皆从小。",
+    "radical": "小部",
+    "category": "抽象"
+  },
+  {
+    "form": "八",
+    "char": "八",
+    "pinyin": "ba1",
+    "meaning": "別也。象分別相背之形。凡八之屬皆从八。",
+    "radical": "八部",
+    "category": "数量"
+  },
+  {
+    "form": "釆",
+    "char": "釆",
+    "pinyin": "bian4",
+    "meaning": "辨別也。象獸指爪分別也。凡釆之屬皆从釆。讀若辨。",
+    "radical": "釆部",
+    "category": "抽象"
+  },
+  {
+    "form": "半",
+    "char": "半",
+    "pinyin": "ban4",
+    "meaning": "物中分也。从八从牛。牛爲物大，可以分也。凡半之屬皆从半。",
+    "radical": "半部",
+    "category": "抽象"
+  },
+  {
+    "form": "牛",
+    "char": "牛",
+    "pinyin": "niu2",
+    "meaning": "大牲也。牛，件也；件，事理也。象角頭三、封□之形。凡牛之屬皆从牛。",
+    "radical": "牛部",
+    "category": "动物"
+  },
+  {
+    "form": "犛",
+    "char": "犛",
+    "pinyin": "mao2",
+    "meaning": "西南夷長髦牛也。从牛□聲。凡犛之屬皆从犛。",
+    "radical": "犛部",
+    "category": "抽象"
+  },
+  {
+    "form": "告",
+    "char": "告",
+    "pinyin": "gao4",
+    "meaning": "牛觸人，角箸橫木，所以告人也。从口从牛。《易》曰：\"僮牛之告。\"凡告之屬皆从告。",
+    "radical": "告部",
+    "category": "抽象"
+  },
+  {
+    "form": "口",
+    "char": "口",
+    "pinyin": "kou3",
+    "meaning": "人所以言食也。象形。凡口之屬皆从口。",
+    "radical": "口部",
+    "category": "人体"
+  },
+  {
+    "form": "凵",
+    "char": "凵",
+    "pinyin": "kan3/qian3",
+    "meaning": "張口也。象形。凡凵之屬皆从凵。",
+    "radical": "凵部",
+    "category": "抽象"
+  },
+  {
+    "form": "吅",
+    "char": "吅",
+    "pinyin": "xuan1",
+    "meaning": "驚嘑也。从二口。凡吅之屬皆从吅。讀若讙。",
+    "radical": "吅部",
+    "category": "抽象"
+  },
+  {
+    "form": "哭",
+    "char": "哭",
+    "pinyin": "ku1",
+    "meaning": "哀聲也。从吅，獄省聲。凡哭之屬皆从哭。",
+    "radical": "哭部",
+    "category": "抽象"
+  },
+  {
+    "form": "走",
+    "char": "走",
+    "pinyin": "zou3",
+    "meaning": "趨也。从夭、止。夭止者，屈也。凡走之屬皆从走。",
+    "radical": "走部",
+    "category": "动作"
+  },
+  {
+    "form": "止",
+    "char": "止",
+    "pinyin": "zhi3",
+    "meaning": "下基也。象艸木出有址，故以止爲足。凡止之屬皆从止。",
+    "radical": "止部",
+    "category": "动作"
+  },
+  {
+    "form": "癶",
+    "char": "癶",
+    "pinyin": "bo1",
+    "meaning": "足剌癶也。从止、□。凡癶之屬皆从癶。讀若撥。",
+    "radical": "癶部",
+    "category": "抽象"
+  },
+  {
+    "form": "步",
+    "char": "步",
+    "pinyin": "bu4",
+    "meaning": "行也。从止□相背。凡步之屬皆从步。",
+    "radical": "步部",
+    "category": "抽象"
+  },
+  {
+    "form": "此",
+    "char": "此",
+    "pinyin": "ci3",
+    "meaning": "止也。从止从匕。匕，相比次也。凡此之屬皆从此。",
+    "radical": "此部",
+    "category": "抽象"
+  },
+  {
+    "form": "正",
+    "char": "正",
+    "pinyin": "zheng4",
+    "meaning": "是也。从止，一以止。凡正之屬皆从正。",
+    "radical": "正部",
+    "category": "抽象"
+  },
+  {
+    "form": "是",
+    "char": "是",
+    "pinyin": "shi4",
+    "meaning": "直也。从日、正。凡是之屬皆从是。",
+    "radical": "是部",
+    "category": "抽象"
+  },
+  {
+    "form": "辵",
+    "char": "辵",
+    "pinyin": "chuo4",
+    "meaning": "乍行乍止也。从彳从止。凡辵之屬皆从辵。讀若《春秋公羊傳》曰\"辵階而走\"。",
+    "radical": "辵部",
+    "category": "抽象"
+  },
+  {
+    "form": "彳",
+    "char": "彳",
+    "pinyin": "chi4",
+    "meaning": "小步也。象人脛三屬相連也。凡彳之屬皆从彳。",
+    "radical": "彳部",
+    "category": "抽象"
+  },
+  {
+    "form": "廴",
+    "char": "廴",
+    "pinyin": "yin3",
+    "meaning": "長行也。从彳引之。凡廴之屬皆从廴。",
+    "radical": "廴部",
+    "category": "抽象"
+  },
+  {
+    "form": "行",
+    "char": "行",
+    "pinyin": "xing2/hang2",
+    "meaning": "人之步趨也。从彳从亍。凡行之屬皆从行。",
+    "radical": "行部",
+    "category": "动作"
+  },
+  {
+    "form": "齒",
+    "char": "齒",
+    "pinyin": "chi3",
+    "meaning": "口齗骨也。象口齒之形，止聲。凡齒之屬皆从齒。",
+    "radical": "齒部",
+    "category": "抽象"
+  },
+  {
+    "form": "牙",
+    "char": "牙",
+    "pinyin": "ya2",
+    "meaning": "牡齒也。象上下相錯之形。凡牙之屬皆从牙。",
+    "radical": "牙部",
+    "category": "动物"
+  },
+  {
+    "form": "足",
+    "char": "足",
+    "pinyin": "zu2",
+    "meaning": "人之足也。在下。从止、口。凡足之屬皆从足。",
+    "radical": "足部",
+    "category": "人体"
+  },
+  {
+    "form": "疋",
+    "char": "疋",
+    "pinyin": "shu1/ya3",
+    "meaning": "足也。上象腓腸，下从止。《弟子職》曰：\"問疋何止。\"古文以爲《詩·大疋》字。亦以",
+    "radical": "疋部",
+    "category": "抽象"
+  },
+  {
+    "form": "品",
+    "char": "品",
+    "pinyin": "pin3",
+    "meaning": "眾庶也。从三口。凡品之屬皆从品。",
+    "radical": "品部",
+    "category": "抽象"
+  },
+  {
+    "form": "龠",
+    "char": "龠",
+    "pinyin": "yue4",
+    "meaning": "樂之竹管，三孔，以和眾聲也。从品、侖。侖，理也。凡龠之屬皆从龠。",
+    "radical": "龠部",
+    "category": "抽象"
+  },
+  {
+    "form": "冊",
+    "char": "冊",
+    "pinyin": "ce4",
+    "meaning": "符命也。諸矦進受於王也。象其札一長一短，中有二編之形。凡冊之屬皆从冊。",
+    "radical": "冊部",
+    "category": "抽象"
+  },
+  {
+    "form": "舌",
+    "char": "舌",
+    "pinyin": "she2",
+    "meaning": "在口，所以言也、別味也。从干从口，干亦聲。凡舌之屬皆从舌。",
+    "radical": "舌部",
+    "category": "人体"
+  },
+  {
+    "form": "干",
+    "char": "干",
+    "pinyin": "gan1",
+    "meaning": "犯也。从反入，从一。凡干之屬皆从干。",
+    "radical": "干部",
+    "category": "抽象"
+  },
+  {
+    "form": "只",
+    "char": "只",
+    "pinyin": "zhi3",
+    "meaning": "語巳詞也。从口，象气下引之形。凡只之屬皆从只。",
+    "radical": "只部",
+    "category": "抽象"
+  },
+  {
+    "form": "句",
+    "char": "句",
+    "pinyin": "ju4/gou1",
+    "meaning": "曲也。从口丩聲。凡句之屬皆从句。",
+    "radical": "句部",
+    "category": "抽象"
+  },
+  {
+    "form": "丩",
+    "char": "丩",
+    "pinyin": "jiu1",
+    "meaning": "相糾繚也。一曰瓜瓠結丩起。象形。凡丩之屬皆从丩。",
+    "radical": "丩部",
+    "category": "抽象"
+  },
+  {
+    "form": "古",
+    "char": "古",
+    "pinyin": "gu3",
+    "meaning": "故也。从十、口。識前言者也。凡古之屬皆从古。",
+    "radical": "古部",
+    "category": "抽象"
+  },
+  {
+    "form": "十",
+    "char": "十",
+    "pinyin": "shi2",
+    "meaning": "數之具也。一爲東西，丨爲南北，則四方中央備矣。凡十之屬皆从十。",
+    "radical": "十部",
+    "category": "数量"
+  },
+  {
+    "form": "卅",
+    "char": "卅",
+    "pinyin": "sa4",
+    "meaning": "三十并也。古文省。凡卅之屬皆从卅。",
+    "radical": "卅部",
+    "category": "抽象"
+  },
+  {
+    "form": "言",
+    "char": "言",
+    "pinyin": "yan2",
+    "meaning": "直言曰言，論難曰語。从口□聲。凡言之屬皆从言。",
+    "radical": "言部",
+    "category": "动作"
+  },
+  {
+    "form": "誩",
+    "char": "誩",
+    "pinyin": "jing4",
+    "meaning": "競言也。从二言。凡誩之屬皆从誩。讀若競。",
+    "radical": "誩部",
+    "category": "抽象"
+  },
+  {
+    "form": "音",
+    "char": "音",
+    "pinyin": "yin1",
+    "meaning": "聲也。生於心，有節於外，謂之音。宮商角徵羽，聲；絲竹金石匏土革木，音也。从言含一",
+    "radical": "音部",
+    "category": "抽象"
+  },
+  {
+    "form": "丵",
+    "char": "丵",
+    "pinyin": "zhuo2",
+    "meaning": "叢生艸也。象丵嶽相竝出也。凡丵之屬皆从丵。讀若浞。",
+    "radical": "丵部",
+    "category": "抽象"
+  },
+  {
+    "form": "菐",
+    "char": "菐",
+    "pinyin": "pu2",
+    "meaning": "瀆菐也。从丵从廾，廾亦聲。凡菐之屬皆从菐。",
+    "radical": "菐部",
+    "category": "抽象"
+  },
+  {
+    "form": "共",
+    "char": "共",
+    "pinyin": "gong4",
+    "meaning": "同也。从廿、廾。凡共之屬皆从共。",
+    "radical": "共部",
+    "category": "抽象"
+  },
+  {
+    "form": "異",
+    "char": "異",
+    "pinyin": "yi4",
+    "meaning": "分也。从廾从畀。畀，予也。凡異之屬皆从異。",
+    "radical": "異部",
+    "category": "抽象"
+  },
+  {
+    "form": "舁",
+    "char": "舁",
+    "pinyin": "yu2",
+    "meaning": "共舉也。从□从廾。凡舁之屬皆从舁。讀若余。",
+    "radical": "舁部",
+    "category": "抽象"
+  },
+  {
+    "form": "爨",
+    "char": "爨",
+    "pinyin": "cuan4",
+    "meaning": "齊謂之炊爨。□象持甑，冂爲竈口，廾推林内火。凡爨之屬皆从爨。",
+    "radical": "爨部",
+    "category": "抽象"
+  },
+  {
+    "form": "革",
+    "char": "革",
+    "pinyin": "ge2",
+    "meaning": "獸皮治去其毛，革更之。象古文革之形。凡革之屬皆从革。",
+    "radical": "革部",
+    "category": "器物"
+  },
+  {
+    "form": "鬲",
+    "char": "鬲",
+    "pinyin": "li4",
+    "meaning": "鼎屬。實五觳。斗二升曰觳。象腹交文，三足。凡鬲之屬皆从鬲。",
+    "radical": "鬲部",
+    "category": "器物"
+  },
+  {
+    "form": "爪",
+    "char": "爪",
+    "pinyin": "zhao3",
+    "meaning": "丮也。覆手曰爪。象形。凡爪之屬皆从爪。",
+    "radical": "爪部",
+    "category": "抽象"
+  },
+  {
+    "form": "丮",
+    "char": "丮",
+    "pinyin": "ji2/ji3",
+    "meaning": "持也。象手有所丮據也。凡丮之屬皆从丮。讀若□。",
+    "radical": "丮部",
+    "category": "抽象"
+  },
+  {
+    "form": "鬥",
+    "char": "鬥",
+    "pinyin": "dou4",
+    "meaning": "兩士相對，兵杖在後，象鬥之形。凡鬥之屬皆从鬥。",
+    "radical": "鬥部",
+    "category": "抽象"
+  },
+  {
+    "form": "又",
+    "char": "又",
+    "pinyin": "you4",
+    "meaning": "手也。象形。三指者，手之□多略不過三也。凡又之屬皆从又。",
+    "radical": "又部",
+    "category": "抽象"
+  },
+  {
+    "form": "史",
+    "char": "史",
+    "pinyin": "shi3",
+    "meaning": "記事者也。从又持中。中，正也。凡史之屬皆从史。",
+    "radical": "史部",
+    "category": "抽象"
+  },
+  {
+    "form": "支",
+    "char": "支",
+    "pinyin": "zhi1",
+    "meaning": "去竹之枝也。从手持半竹。凡支之屬皆从支。",
+    "radical": "支部",
+    "category": "抽象"
+  },
+  {
+    "form": "聿",
+    "char": "聿",
+    "pinyin": "yu4",
+    "meaning": "所以書也。楚謂之聿，吳謂之不律，燕謂之弗。从□一聲。凡聿之屬皆从聿。",
+    "radical": "聿部",
+    "category": "抽象"
+  },
+  {
+    "form": "畫",
+    "char": "畫",
+    "pinyin": "hua4",
+    "meaning": "界也。象田四界。聿，所以畫之。凡畫之屬皆从畫。",
+    "radical": "畫部",
+    "category": "抽象"
+  },
+  {
+    "form": "隶",
+    "char": "隶",
+    "pinyin": "dai4",
+    "meaning": "及也。从又，从□省。又，持□者，从後及之也。凡隶之屬皆从隶。",
+    "radical": "隶部",
+    "category": "抽象"
+  },
+  {
+    "form": "臤",
+    "char": "臤",
+    "pinyin": "qian1",
+    "meaning": "堅也。从又臣聲。凡臤之屬皆从臤。讀若鏗鏘之鏗。古文以爲賢字。",
+    "radical": "臤部",
+    "category": "抽象"
+  },
+  {
+    "form": "臣",
+    "char": "臣",
+    "pinyin": "chen2",
+    "meaning": "牽也。事君也。象屈服之形。凡臣之屬皆从臣。",
+    "radical": "臣部",
+    "category": "抽象"
+  },
+  {
+    "form": "殳",
+    "char": "殳",
+    "pinyin": "shu1",
+    "meaning": "以杸殊人也。《禮》：\"殳以積竹，八觚，長丈二尺，建於兵車，車旅賁以先驅。\"从又几",
+    "radical": "殳部",
+    "category": "器物"
+  },
+  {
+    "form": "殺",
+    "char": "殺",
+    "pinyin": "sha1/sa4",
+    "meaning": "戮也。从殳杀聲。凡殺之屬皆从殺。",
+    "radical": "殺部",
+    "category": "抽象"
+  },
+  {
+    "form": "寸",
+    "char": "寸",
+    "pinyin": "cun4",
+    "meaning": "十分也。人手卻一寸，動□，謂之寸口。从又从一。凡寸之屬皆从寸。",
+    "radical": "寸部",
+    "category": "抽象"
+  },
+  {
+    "form": "皮",
+    "char": "皮",
+    "pinyin": "pi2",
+    "meaning": "剥取獸革者謂之皮。从又，爲省聲。凡皮之屬皆从皮。",
+    "radical": "皮部",
+    "category": "人体"
+  },
+  {
+    "form": "攴",
+    "char": "攴",
+    "pinyin": "pu1",
+    "meaning": "小擊也。从又卜聲。凡攴之屬皆从攴。",
+    "radical": "攴部",
+    "category": "抽象"
+  },
+  {
+    "form": "教",
+    "char": "教",
+    "pinyin": "jiao4",
+    "meaning": "上所施下所效也。从攴从孝。凡教之屬皆从教。",
+    "radical": "教部",
+    "category": "抽象"
+  },
+  {
+    "form": "卜",
+    "char": "卜",
+    "pinyin": "bu3",
+    "meaning": "灼剥龜也，象灸龜之形。一曰象龜兆之從橫也。凡卜之屬皆从卜。",
+    "radical": "卜部",
+    "category": "抽象"
+  },
+  {
+    "form": "用",
+    "char": "用",
+    "pinyin": "yong4",
+    "meaning": "可施行也。从卜从中。衞宏說。凡用之屬皆从用。",
+    "radical": "用部",
+    "category": "抽象"
+  },
+  {
+    "form": "爻",
+    "char": "爻",
+    "pinyin": "yao2",
+    "meaning": "交也。象《易》六爻頭交也。凡爻之屬皆从爻。",
+    "radical": "爻部",
+    "category": "抽象"
+  },
+  {
+    "form": "目",
+    "char": "目",
+    "pinyin": "mu4",
+    "meaning": "人眼。象形。重童子也。凡目之屬皆从目。",
+    "radical": "目部",
+    "category": "人体"
+  },
+  {
+    "form": "眉",
+    "char": "眉",
+    "pinyin": "mei2",
+    "meaning": "目上毛也。从目，象眉之形，上象頟理也。凡眉之屬皆从眉。",
+    "radical": "眉部",
+    "category": "抽象"
+  },
+  {
+    "form": "盾",
+    "char": "盾",
+    "pinyin": "dun4/shun3",
+    "meaning": "瞂也。所以扞身蔽目。象形。凡盾之屬皆从盾。",
+    "radical": "盾部",
+    "category": "抽象"
+  },
+  {
+    "form": "自",
+    "char": "自",
+    "pinyin": "zi4",
+    "meaning": "鼻也。象鼻形。凡自之屬皆从自。",
+    "radical": "自部",
+    "category": "抽象"
+  },
+  {
+    "form": "白",
+    "char": "白",
+    "pinyin": "zi4",
+    "meaning": "此亦自字也。省自者，詞言之气，从鼻出，與口相助也。凡白之屬皆从白。",
+    "radical": "白部",
+    "category": "抽象"
+  },
+  {
+    "form": "鼻",
+    "char": "鼻",
+    "pinyin": "bi2",
+    "meaning": "引气自□也。从自、□。凡鼻之屬皆从鼻。",
+    "radical": "鼻部",
+    "category": "人体"
+  },
+  {
+    "form": "皕",
+    "char": "皕",
+    "pinyin": "bi4",
+    "meaning": "二百也。凡皕之屬皆从皕。讀若祕。",
+    "radical": "皕部",
+    "category": "抽象"
+  },
+  {
+    "form": "習",
+    "char": "習",
+    "pinyin": "xi2",
+    "meaning": "數飛也。从羽从白。凡習之屬皆从習。",
+    "radical": "習部",
+    "category": "抽象"
+  },
+  {
+    "form": "羽",
+    "char": "羽",
+    "pinyin": "yu3",
+    "meaning": "鳥長毛也。象形。凡羽之屬皆从羽。",
+    "radical": "羽部",
+    "category": "动物"
+  },
+  {
+    "form": "隹",
+    "char": "隹",
+    "pinyin": "zhui1",
+    "meaning": "鳥之短尾緫名也。象形。凡隹之屬皆从隹。",
+    "radical": "隹部",
+    "category": "动物"
+  },
+  {
+    "form": "奞",
+    "char": "奞",
+    "pinyin": "sui1/xun4",
+    "meaning": "鳥張毛羽自奮也。从大从隹。凡奞之屬皆从奞。讀若睢。",
+    "radical": "奞部",
+    "category": "抽象"
+  },
+  {
+    "form": "萑",
+    "char": "萑",
+    "pinyin": "huan2",
+    "meaning": "鴟屬。从隹从□，有毛角。所鳴，其民有旤。凡萑之屬皆从萑。讀若和。",
+    "radical": "萑部",
+    "category": "抽象"
+  },
+  {
+    "form": "羊",
+    "char": "羊",
+    "pinyin": "yang2",
+    "meaning": "祥也。从□，象頭角足尾之形。孔子曰：\"牛羊之字以形舉也。\"凡羊之屬皆从羊。",
+    "radical": "羊部",
+    "category": "动物"
+  },
+  {
+    "form": "羴",
+    "char": "羴",
+    "pinyin": "shan1",
+    "meaning": "羊臭也。从三羊。凡羴之屬皆从羴。",
+    "radical": "羴部",
+    "category": "抽象"
+  },
+  {
+    "form": "瞿",
+    "char": "瞿",
+    "pinyin": "ju4/qu2",
+    "meaning": "鷹隼之視也。从隹从□，□亦聲。凡瞿之屬皆从瞿。讀若章句之句。",
+    "radical": "瞿部",
+    "category": "抽象"
+  },
+  {
+    "form": "雔",
+    "char": "雔",
+    "pinyin": "chou2",
+    "meaning": "雙鳥也。从二隹。凡雔之屬皆从雔。讀若醻。",
+    "radical": "雔部",
+    "category": "抽象"
+  },
+  {
+    "form": "雥",
+    "char": "雥",
+    "pinyin": "zha2/za2",
+    "meaning": "羣鳥也。从三隹。凡雥之屬皆从雥。",
+    "radical": "雥部",
+    "category": "抽象"
+  },
+  {
+    "form": "鳥",
+    "char": "鳥",
+    "pinyin": "niao3",
+    "meaning": "長尾禽緫名也。象形。鳥之足似匕，从匕。凡鳥之屬皆从鳥。",
+    "radical": "鳥部",
+    "category": "抽象"
+  },
+  {
+    "form": "烏",
+    "char": "烏",
+    "pinyin": "wu1",
+    "meaning": "孝鳥也。象形。孔子曰：\"烏，□呼也。\"取其助气，故以爲烏呼。凡烏之屬皆从烏",
+    "radical": "烏部",
+    "category": "抽象"
+  },
+  {
+    "form": "冓",
+    "char": "冓",
+    "pinyin": "gou4/gou1",
+    "meaning": "交積材也。象對交之形。凡冓之屬皆从冓。",
+    "radical": "冓部",
+    "category": "抽象"
+  },
+  {
+    "form": "幺",
+    "char": "幺",
+    "pinyin": "yao1",
+    "meaning": "小也。象子初生之形。凡幺之屬皆从幺。",
+    "radical": "幺部",
+    "category": "抽象"
+  },
+  {
+    "form": "叀",
+    "char": "叀",
+    "pinyin": "zhuan1",
+    "meaning": "專小謹也。从幺省；屮，財見也；屮亦聲。凡叀之屬皆从叀。",
+    "radical": "叀部",
+    "category": "抽象"
+  },
+  {
+    "form": "玄",
+    "char": "玄",
+    "pinyin": "xuan2",
+    "meaning": "幽遠也。黑而有赤色者爲玄。象幽而入覆之也。凡玄之屬皆从玄。",
+    "radical": "玄部",
+    "category": "抽象"
+  },
+  {
+    "form": "予",
+    "char": "予",
+    "pinyin": "yu3/yu2",
+    "meaning": "推予也。象相予之形。凡予之屬皆从予。",
+    "radical": "予部",
+    "category": "抽象"
+  },
+  {
+    "form": "放",
+    "char": "放",
+    "pinyin": "fang4",
+    "meaning": "逐也。从攴方聲。凡放之屬皆从放。",
+    "radical": "放部",
+    "category": "抽象"
+  },
+  {
+    "form": "歺",
+    "char": "歺",
+    "pinyin": "e4",
+    "meaning": "□骨之殘也。从半冎。凡歺之屬皆从歺。讀若櫱岸之櫱。",
+    "radical": "歺部",
+    "category": "抽象"
+  },
+  {
+    "form": "死",
+    "char": "死",
+    "pinyin": "si3",
+    "meaning": "澌也，人所離也。从歺从人。凡死之屬皆从死。",
+    "radical": "死部",
+    "category": "抽象"
+  },
+  {
+    "form": "冎",
+    "char": "冎",
+    "pinyin": "gua3",
+    "meaning": "剔人肉置其骨也。象形。頭隆骨也。凡冎之屬皆从冎。",
+    "radical": "冎部",
+    "category": "抽象"
+  },
+  {
+    "form": "骨",
+    "char": "骨",
+    "pinyin": "gu3",
+    "meaning": "肉之覈也。从冎有肉。凡骨之屬皆从骨。",
+    "radical": "骨部",
+    "category": "人体"
+  },
+  {
+    "form": "肉",
+    "char": "肉",
+    "pinyin": "rou4",
+    "meaning": "胾肉。象形。凡肉之屬皆从肉。",
+    "radical": "肉部",
+    "category": "人体"
+  },
+  {
+    "form": "筋",
+    "char": "筋",
+    "pinyin": "jin1",
+    "meaning": "肉之力也。从力从肉从竹。竹，物之多筋者。凡筋之屬皆从筋。",
+    "radical": "筋部",
+    "category": "抽象"
+  },
+  {
+    "form": "刀",
+    "char": "刀",
+    "pinyin": "dao1",
+    "meaning": "兵也。象形。凡刀之屬皆从刀。",
+    "radical": "刀部",
+    "category": "器物"
+  },
+  {
+    "form": "刃",
+    "char": "刃",
+    "pinyin": "ren4",
+    "meaning": "刀堅也。象刀有刃之形。凡刃之屬皆从刃。",
+    "radical": "刃部",
+    "category": "抽象"
+  },
+  {
+    "form": "丯",
+    "char": "丯",
+    "pinyin": "jie4",
+    "meaning": "艸蔡也。象艸生之□亂也。凡丯之屬皆从丯。讀若介。",
+    "radical": "丯部",
+    "category": "抽象"
+  },
+  {
+    "form": "耒",
+    "char": "耒",
+    "pinyin": "lei3",
+    "meaning": "手耕曲木也。从木推丯。古者垂作耒□以振民也。凡耒之屬皆从耒。",
+    "radical": "耒部",
+    "category": "器物"
+  },
+  {
+    "form": "角",
+    "char": "角",
+    "pinyin": "jiao3/jue2",
+    "meaning": "獸角也。象形，角與刀、魚相似。凡角之屬皆从角。",
+    "radical": "角部",
+    "category": "动物"
+  },
+  {
+    "form": "竹",
+    "char": "竹",
+    "pinyin": "zhu2",
+    "meaning": "冬生艸也。象形。下垂者，箁箬也。凡竹之屬皆从竹。",
+    "radical": "竹部",
+    "category": "器物"
+  },
+  {
+    "form": "箕",
+    "char": "箕",
+    "pinyin": "ji1",
+    "meaning": "簸也。从竹；□，象形；下其丌也。凡箕之屬皆从箕。",
+    "radical": "箕部",
+    "category": "抽象"
+  },
+  {
+    "form": "丌",
+    "char": "丌",
+    "pinyin": "ji1",
+    "meaning": "下基也。薦物之丌。象形。凡丌之屬皆从丌。讀若箕同。",
+    "radical": "丌部",
+    "category": "抽象"
+  },
+  {
+    "form": "左",
+    "char": "左",
+    "pinyin": "zuo3",
+    "meaning": "手相左助也。从□、工。凡左之屬皆从左。",
+    "radical": "左部",
+    "category": "抽象"
+  },
+  {
+    "form": "工",
+    "char": "工",
+    "pinyin": "gong1",
+    "meaning": "巧飾也。象人有規榘也。與巫同意。凡工之屬皆从工。",
+    "radical": "工部",
+    "category": "抽象"
+  },
+  {
+    "form": "巫",
+    "char": "巫",
+    "pinyin": "wu1",
+    "meaning": "祝也。女能事無形，以舞降神者也。象人兩褎舞形。與工同意。古者巫咸初作巫。凡巫之屬",
+    "radical": "巫部",
+    "category": "抽象"
+  },
+  {
+    "form": "甘",
+    "char": "甘",
+    "pinyin": "gan1",
+    "meaning": "美也。从口含一。一，道也。凡甘之屬皆从甘。",
+    "radical": "甘部",
+    "category": "抽象"
+  },
+  {
+    "form": "曰",
+    "char": "曰",
+    "pinyin": "yue4",
+    "meaning": "詞也。从口乙聲。亦象口气出也。凡曰之屬皆从曰。",
+    "radical": "曰部",
+    "category": "抽象"
+  },
+  {
+    "form": "乃",
+    "char": "乃",
+    "pinyin": "nai3",
+    "meaning": "曳詞之難也。象气之出難。凡□之屬皆从□。",
+    "radical": "乃部",
+    "category": "抽象"
+  },
+  {
+    "form": "丂",
+    "char": "丂",
+    "pinyin": "kao3",
+    "meaning": "气欲舒出。□上礙於一也。丂，古文以爲亏字，又以爲巧字。凡丂之屬皆从丂。",
+    "radical": "丂部",
+    "category": "抽象"
+  },
+  {
+    "form": "可",
+    "char": "可",
+    "pinyin": "ke3",
+    "meaning": "□也。从口丂，丂亦聲。凡可之屬皆从可。",
+    "radical": "可部",
+    "category": "抽象"
+  },
+  {
+    "form": "兮",
+    "char": "兮",
+    "pinyin": "xi1",
+    "meaning": "語所稽也。从丂，八象气越亏也。凡兮之屬皆从兮。",
+    "radical": "兮部",
+    "category": "抽象"
+  },
+  {
+    "form": "号",
+    "char": "号",
+    "pinyin": "hao2/hao4",
+    "meaning": "痛聲也。从口在丂上。凡号之屬皆从号。",
+    "radical": "号部",
+    "category": "抽象"
+  },
+  {
+    "form": "亏",
+    "char": "亏",
+    "pinyin": "yu2",
+    "meaning": "於也。象气之舒亏。从丂从一。一者，其气平之也。凡亏之屬皆从亏。今變隸作于。",
+    "radical": "亏部",
+    "category": "抽象"
+  },
+  {
+    "form": "旨",
+    "char": "旨",
+    "pinyin": "zhi3",
+    "meaning": "美也。从甘匕聲。凡旨之屬皆从旨。",
+    "radical": "旨部",
+    "category": "抽象"
+  },
+  {
+    "form": "喜",
+    "char": "喜",
+    "pinyin": "xi3",
+    "meaning": "樂也。从壴从口。凡喜之屬皆从喜。",
+    "radical": "喜部",
+    "category": "抽象"
+  },
+  {
+    "form": "壴",
+    "char": "壴",
+    "pinyin": "zhu4",
+    "meaning": "陳樂立而上見也。从屮从豆。凡壴之屬皆从壴。",
+    "radical": "壴部",
+    "category": "抽象"
+  },
+  {
+    "form": "鼓",
+    "char": "鼓",
+    "pinyin": "gu3/qi4",
+    "meaning": "郭也。春分之音，萬物郭皮甲而出，故謂之鼓。从壴，支象其手擊之也。《周禮》六鼓：靁",
+    "radical": "鼓部",
+    "category": "抽象"
+  },
+  {
+    "form": "豈",
+    "char": "豈",
+    "pinyin": "qi3",
+    "meaning": "還師振旅樂也。一曰欲也，登也。从豆，微省聲。凡豈之屬皆从豈。",
+    "radical": "豈部",
+    "category": "抽象"
+  },
+  {
+    "form": "豆",
+    "char": "豆",
+    "pinyin": "dou4",
+    "meaning": "古食肉器也。从口，象形。凡豆之屬皆从豆。",
+    "radical": "豆部",
+    "category": "抽象"
+  },
+  {
+    "form": "豊",
+    "char": "豊",
+    "pinyin": "li3",
+    "meaning": "行禮之器也。从豆，象形。凡豊之屬皆从豊。讀與禮同。",
+    "radical": "豊部",
+    "category": "抽象"
+  },
+  {
+    "form": "豐",
+    "char": "豐",
+    "pinyin": "feng1",
+    "meaning": "豆之豐滿者也。从豆，象形。一曰《鄉飲酒》有豐侯者。凡豐之屬皆从豐。",
+    "radical": "豐部",
+    "category": "抽象"
+  },
+  {
+    "form": "虍",
+    "char": "虍",
+    "pinyin": "hu1",
+    "meaning": "虎文也。象形。凡虍之屬皆从虍。",
+    "radical": "虍部",
+    "category": "抽象"
+  },
+  {
+    "form": "虎",
+    "char": "虎",
+    "pinyin": "hu3",
+    "meaning": "山獸之君。从虍，虎足象人足。象形。凡虎之屬皆从虎。",
+    "radical": "虎部",
+    "category": "动物"
+  },
+  {
+    "form": "虤",
+    "char": "虤",
+    "pinyin": "yan2",
+    "meaning": "虎怒也。从二虎。凡虤之屬皆从虤。",
+    "radical": "虤部",
+    "category": "抽象"
+  },
+  {
+    "form": "皿",
+    "char": "皿",
+    "pinyin": "min3/ming3",
+    "meaning": "飯食之用器也。象形。與豆同意。凡皿之屬皆从皿。讀若猛。",
+    "radical": "皿部",
+    "category": "器物"
+  },
+  {
+    "form": "去",
+    "char": "去",
+    "pinyin": "qu4",
+    "meaning": "人相違也。从大凵聲。凡去之屬皆从去。",
+    "radical": "去部",
+    "category": "抽象"
+  },
+  {
+    "form": "血",
+    "char": "血",
+    "pinyin": "xue4",
+    "meaning": "祭所薦牲血也。从皿，一象血形。凡血之屬皆从血。",
+    "radical": "血部",
+    "category": "人体"
+  },
+  {
+    "form": "丶",
+    "char": "丶",
+    "pinyin": "zhu3",
+    "meaning": "有所絕止，丶而識之也。凡丶之屬皆从丶。",
+    "radical": "丶部",
+    "category": "抽象"
+  },
+  {
+    "form": "丹",
+    "char": "丹",
+    "pinyin": "dan1",
+    "meaning": "巴越之赤石也。象采丹井，一象丹形。凡丹之屬皆从丹。",
+    "radical": "丹部",
+    "category": "抽象"
+  },
+  {
+    "form": "青",
+    "char": "青",
+    "pinyin": "qing1",
+    "meaning": "東方色也。木生火，从生、丹。丹青之信言象然。凡青之屬皆从青。",
+    "radical": "青部",
+    "category": "抽象"
+  },
+  {
+    "form": "井",
+    "char": "井",
+    "pinyin": "jing3",
+    "meaning": "八家一井，象構韓形。·，□之象也。古者伯益初作井。凡井之屬皆从井。",
+    "radical": "井部",
+    "category": "抽象"
+  },
+  {
+    "form": "皀",
+    "char": "皀",
+    "pinyin": "bi1/ji2/bi4",
+    "meaning": "穀之馨香也。象嘉穀在裹中之形。匕，所以扱之。或說皀，一粒也。凡皀之屬皆从皀。又讀",
+    "radical": "皀部",
+    "category": "抽象"
+  },
+  {
+    "form": "鬯",
+    "char": "鬯",
+    "pinyin": "chang4",
+    "meaning": "以秬釀□艸，芬芳攸服，以降神也。从凵，凵，器也；中象米；匕，所以扱之。《易》曰：",
+    "radical": "鬯部",
+    "category": "抽象"
+  },
+  {
+    "form": "食",
+    "char": "食",
+    "pinyin": "shi2",
+    "meaning": "一米也。从皀亼聲。或說亼皀也。凡食之屬皆从食。",
+    "radical": "食部",
+    "category": "动作"
+  },
+  {
+    "form": "亼",
+    "char": "亼",
+    "pinyin": "ji2",
+    "meaning": "三合也。从入、一，象三合之形。凡亼之屬皆从亼。讀若集。",
+    "radical": "亼部",
+    "category": "抽象"
+  },
+  {
+    "form": "會",
+    "char": "會",
+    "pinyin": "hui4",
+    "meaning": "合也。从亼，从曾省。曾，益也。凡會之屬皆从會。",
+    "radical": "會部",
+    "category": "抽象"
+  },
+  {
+    "form": "倉",
+    "char": "倉",
+    "pinyin": "cang1",
+    "meaning": "榖藏也。倉黃取而藏之，故謂之倉。从食省，口象倉形。凡倉之屬皆从倉。",
+    "radical": "倉部",
+    "category": "抽象"
+  },
+  {
+    "form": "入",
+    "char": "入",
+    "pinyin": "ru4",
+    "meaning": "内也。象从上俱下也。凡入之屬皆从入。",
+    "radical": "入部",
+    "category": "动作"
+  },
+  {
+    "form": "缶",
+    "char": "缶",
+    "pinyin": "fou3",
+    "meaning": "瓦器。所以盛酒□。秦人鼓之以節謌。象形。凡缶之屬皆从缶。",
+    "radical": "缶部",
+    "category": "器物"
+  },
+  {
+    "form": "矢",
+    "char": "矢",
+    "pinyin": "shi3",
+    "meaning": "弓弩矢也。从入，象鏑栝羽之形。古者夷牟初作矢。凡矢之屬皆从矢。",
+    "radical": "矢部",
+    "category": "器物"
+  },
+  {
+    "form": "高",
+    "char": "高",
+    "pinyin": "gao1",
+    "meaning": "崇也。象臺觀高之形。从冂、口。與倉、舍同意。凡高之屬皆从高。",
+    "radical": "高部",
+    "category": "抽象"
+  },
+  {
+    "form": "冂",
+    "char": "冂",
+    "pinyin": "jiong1",
+    "meaning": "邑外謂之郊，郊外謂之野，野外謂之林，林外謂之冂。象遠界也。凡冂之屬皆从冂。",
+    "radical": "冂部",
+    "category": "抽象"
+  },
+  {
+    "form": "京",
+    "char": "京",
+    "pinyin": "jing1",
+    "meaning": "人所爲絕高丘也。从高省，丨 象高形。凡京之屬皆从京。",
+    "radical": "京部",
+    "category": "抽象"
+  },
+  {
+    "form": "亯",
+    "char": "亯",
+    "pinyin": "heng1/peng1/xiang3",
+    "meaning": "獻也。从高省，曰象進孰物形。《孝經》曰：\"祭則鬼亯之。\"凡亯之屬皆从亯。",
+    "radical": "亯部",
+    "category": "抽象"
+  },
+  {
+    "form": "畗",
+    "char": "畗",
+    "pinyin": "fu2/da2",
+    "meaning": "滿也。从高省，象高厚之形。凡畗之屬皆从畗。讀若伏。",
+    "radical": "畗部",
+    "category": "抽象"
+  },
+  {
+    "form": "嗇",
+    "char": "嗇",
+    "pinyin": "se4",
+    "meaning": "愛瀒也。从來从□。來者，□而藏之。故田夫謂之嗇夫。凡嗇之屬皆从嗇。",
+    "radical": "嗇部",
+    "category": "抽象"
+  },
+  {
+    "form": "來",
+    "char": "來",
+    "pinyin": "lai2/lai4",
+    "meaning": "周所受瑞麥來麰。一來二縫，象芒朿之形。天所來也，故爲行來之來。《詩》曰：\"詒我來",
+    "radical": "來部",
+    "category": "抽象"
+  },
+  {
+    "form": "麥",
+    "char": "麥",
+    "pinyin": "mai4",
+    "meaning": "芒穀，秋穜厚薶，故謂之麥。麥，金也。金王而生，火王而死。从來，有穗者；从夊。凡麥",
+    "radical": "麥部",
+    "category": "抽象"
+  },
+  {
+    "form": "夊",
+    "char": "夊",
+    "pinyin": "sui1",
+    "meaning": "行遲曳夊夊，象人兩脛有所躧也。凡夊之屬皆从夊。",
+    "radical": "夊部",
+    "category": "抽象"
+  },
+  {
+    "form": "舛",
+    "char": "舛",
+    "pinyin": "chuan3",
+    "meaning": "對臥也。从夊□相背。凡舛之屬皆从舛。",
+    "radical": "舛部",
+    "category": "抽象"
+  },
+  {
+    "form": "舜",
+    "char": "舜",
+    "pinyin": "shun4",
+    "meaning": "艸也。楚謂之葍，秦謂之藑。蔓地連華。象形。从舛，舛亦聲。凡□之屬皆从□。今隸變作",
+    "radical": "舜部",
+    "category": "抽象"
+  },
+  {
+    "form": "韋",
+    "char": "韋",
+    "pinyin": "wei2",
+    "meaning": "相背也。从舛囗聲。獸皮之韋，可以束枉戾相韋背，故借以爲皮韋。凡韋之屬皆从韋。",
+    "radical": "韋部",
+    "category": "抽象"
+  },
+  {
+    "form": "弟",
+    "char": "弟",
+    "pinyin": "di4",
+    "meaning": "韋束之次弟也。从古字之象。凡弟之屬皆从弟。",
+    "radical": "弟部",
+    "category": "抽象"
+  },
+  {
+    "form": "夂",
+    "char": "夂",
+    "pinyin": "zhi3",
+    "meaning": "从後至也。象人兩脛後有致之者。凡夂之屬皆从夂。讀若黹。",
+    "radical": "夂部",
+    "category": "抽象"
+  },
+  {
+    "form": "久",
+    "char": "久",
+    "pinyin": "jiu3",
+    "meaning": "以後灸之，象人兩脛後有距也。《周禮》曰：\"久諸牆以觀其橈。\"凡久之屬皆从久。",
+    "radical": "久部",
+    "category": "抽象"
+  },
+  {
+    "form": "桀",
+    "char": "桀",
+    "pinyin": "jie2",
+    "meaning": "磔也。从舛在木上也。凡桀之屬皆从桀。",
+    "radical": "桀部",
+    "category": "抽象"
+  },
+  {
+    "form": "木",
+    "char": "木",
+    "pinyin": "mu4",
+    "meaning": "冒也。冒地而生。東方之行。从屮，下象其根。凡木之屬皆从木。",
+    "radical": "木部",
+    "category": "自然"
+  },
+  {
+    "form": "東",
+    "char": "東",
+    "pinyin": "dong1",
+    "meaning": "動也。从木。官溥說：从日在木中。凡東之屬皆从東。",
+    "radical": "東部",
+    "category": "抽象"
+  },
+  {
+    "form": "林",
+    "char": "林",
+    "pinyin": "lin2",
+    "meaning": "平土有叢木曰林。从二木。凡林之屬皆从林。",
+    "radical": "林部",
+    "category": "抽象"
+  },
+  {
+    "form": "才",
+    "char": "才",
+    "pinyin": "cai2",
+    "meaning": "艸木之初也。从丨上貫一，將生枝葉。一，地也。凡才之屬皆从才。",
+    "radical": "才部",
+    "category": "抽象"
+  },
+  {
+    "form": "叒",
+    "char": "叒",
+    "pinyin": "ruo4",
+    "meaning": "日初出東方湯谷，所登榑桑，叒木也。象形。凡叒之屬皆从叒。",
+    "radical": "叒部",
+    "category": "抽象"
+  },
+  {
+    "form": "之",
+    "char": "之",
+    "pinyin": "zhi1",
+    "meaning": "出也。象艸過屮，枝莖益大，有所之。一者，地也。凡之之屬皆从之。",
+    "radical": "之部",
+    "category": "抽象"
+  },
+  {
+    "form": "帀",
+    "char": "帀",
+    "pinyin": "za1",
+    "meaning": "周也。从反之而帀也。凡帀之屬皆从帀。周盛說。",
+    "radical": "帀部",
+    "category": "抽象"
+  },
+  {
+    "form": "出",
+    "char": "出",
+    "pinyin": "chu1",
+    "meaning": "進也。象艸木益滋，上出達也。凡出之屬皆从出。",
+    "radical": "出部",
+    "category": "动作"
+  },
+  {
+    "form": "生",
+    "char": "生",
+    "pinyin": "sheng1",
+    "meaning": "進也。象艸木生出土上。凡生之屬皆从生。",
+    "radical": "生部",
+    "category": "抽象"
+  },
+  {
+    "form": "乇",
+    "char": "乇",
+    "pinyin": "zhe2",
+    "meaning": "艸葉也。从垂穗，上貫一，下有根。象形。凡乇之屬皆从乇。",
+    "radical": "乇部",
+    "category": "抽象"
+  },
+  {
+    "form": "華",
+    "char": "華",
+    "pinyin": "hua1/hua2",
+    "meaning": "榮也。从艸从□。凡華之屬皆从華。",
+    "radical": "華部",
+    "category": "抽象"
+  },
+  {
+    "form": "稽",
+    "char": "稽",
+    "pinyin": "ji1/qi3",
+    "meaning": "畱止也。从□从尤，旨聲。凡稽之屬皆从稽。",
+    "radical": "稽部",
+    "category": "抽象"
+  },
+  {
+    "form": "巢",
+    "char": "巢",
+    "pinyin": "chao2",
+    "meaning": "鳥在木上曰巢，在穴曰窠。从木，象形。凡巢之屬皆从巢。",
+    "radical": "巢部",
+    "category": "抽象"
+  },
+  {
+    "form": "桼",
+    "char": "桼",
+    "pinyin": "qi1",
+    "meaning": "木汁。可以□物。象形。桼如水滴而下。凡桼之屬皆从桼。",
+    "radical": "桼部",
+    "category": "抽象"
+  },
+  {
+    "form": "束",
+    "char": "束",
+    "pinyin": "shu4",
+    "meaning": "縛也。从囗、木。凡束之屬皆从束。",
+    "radical": "束部",
+    "category": "抽象"
+  },
+  {
+    "form": "囗",
+    "char": "囗",
+    "pinyin": "wei2",
+    "meaning": "回也。象回帀之形。凡囗之屬皆从囗。",
+    "radical": "囗部",
+    "category": "抽象"
+  },
+  {
+    "form": "員",
+    "char": "員",
+    "pinyin": "yuan2",
+    "meaning": "物數也。从貝囗聲。凡員之屬皆从員。",
+    "radical": "員部",
+    "category": "抽象"
+  },
+  {
+    "form": "貝",
+    "char": "貝",
+    "pinyin": "bei4",
+    "meaning": "海介蟲也。居陸名猋，在水名蜬。象形。古者貨貝而寶龜，周而有泉，至秦廢貝行錢。凡貝",
+    "radical": "貝部",
+    "category": "抽象"
+  },
+  {
+    "form": "邑",
+    "char": "邑",
+    "pinyin": "yi4",
+    "meaning": "國也。从囗；先王之制，尊卑有大小，从卪。凡邑之屬皆从邑。",
+    "radical": "邑部",
+    "category": "抽象"
+  },
+  {
+    "form": "日",
+    "char": "日",
+    "pinyin": "ri4",
+    "meaning": "實也。太陽之精不虧。从囗一。象形。凡日之屬皆从日。",
+    "radical": "日部",
+    "category": "自然"
+  },
+  {
+    "form": "旦",
+    "char": "旦",
+    "pinyin": "dan4",
+    "meaning": "明也。从日見一上。一，地也。凡旦之屬皆从旦。",
+    "radical": "旦部",
+    "category": "抽象"
+  },
+  {
+    "form": "倝",
+    "char": "倝",
+    "pinyin": "gan4",
+    "meaning": "日始出，光倝倝也。从旦□聲。凡倝之屬皆从倝。",
+    "radical": "倝部",
+    "category": "抽象"
+  },
+  {
+    "form": "冥",
+    "char": "冥",
+    "pinyin": "ming2",
+    "meaning": "幽也。从日从六， 冖聲。日數十。十六日而月始虧幽也。凡冥之屬皆从冥。",
+    "radical": "冥部",
+    "category": "抽象"
+  },
+  {
+    "form": "晶",
+    "char": "晶",
+    "pinyin": "jing1",
+    "meaning": "精光也。从三日。凡晶之屬皆从晶。",
+    "radical": "晶部",
+    "category": "抽象"
+  },
+  {
+    "form": "月",
+    "char": "月",
+    "pinyin": "yue4",
+    "meaning": "闕也。大陰之精。象形。凡月之屬皆从月。",
+    "radical": "月部",
+    "category": "自然"
+  },
+  {
+    "form": "有",
+    "char": "有",
+    "pinyin": "you3",
+    "meaning": "不宜有也。《春秋傳》曰：\"日月有食之。\"从月又聲。凡有之屬皆从有。",
+    "radical": "有部",
+    "category": "抽象"
+  },
+  {
+    "form": "朙",
+    "char": "朙",
+    "pinyin": "ming2",
+    "meaning": "照也。从月从囧。凡朙之屬皆从朙。",
+    "radical": "朙部",
+    "category": "抽象"
+  },
+  {
+    "form": "囧",
+    "char": "囧",
+    "pinyin": "jiong3",
+    "meaning": "窻牖麗廔闓明。象形。凡囧之屬皆从囧。讀若獷。賈侍中說：讀與明同。",
+    "radical": "囧部",
+    "category": "抽象"
+  },
+  {
+    "form": "夕",
+    "char": "夕",
+    "pinyin": "xi1",
+    "meaning": "莫也。从月半見。凡夕之屬皆从夕。",
+    "radical": "夕部",
+    "category": "自然"
+  },
+  {
+    "form": "多",
+    "char": "多",
+    "pinyin": "duo1",
+    "meaning": "重也。从重夕。夕者，相繹也，故爲多。重夕爲多，重日爲曡。凡多之屬皆从多。",
+    "radical": "多部",
+    "category": "抽象"
+  },
+  {
+    "form": "毌",
+    "char": "毌",
+    "pinyin": "guan4",
+    "meaning": "穿物持之也。从一橫貫，象寶貨之形。凡毌之屬皆从毌。讀若冠。",
+    "radical": "毌部",
+    "category": "抽象"
+  },
+  {
+    "form": "齊",
+    "char": "齊",
+    "pinyin": "qi2",
+    "meaning": "禾麥吐穗上平也。象形。凡亝之屬皆从亝。",
+    "radical": "齊部",
+    "category": "抽象"
+  },
+  {
+    "form": "朿",
+    "char": "朿",
+    "pinyin": "ci4",
+    "meaning": "木芒也。象形。凡朿之屬皆从朿。讀若刺。",
+    "radical": "朿部",
+    "category": "抽象"
+  },
+  {
+    "form": "片",
+    "char": "片",
+    "pinyin": "pian4",
+    "meaning": "判木也。从半木。凡片之屬皆从片。",
+    "radical": "片部",
+    "category": "抽象"
+  },
+  {
+    "form": "鼎",
+    "char": "鼎",
+    "pinyin": "ding3",
+    "meaning": "三足兩耳，和五味之寶器也。昔禹收九牧之金，鑄鼎荆山之下，入山林川澤，螭魅蝄蜽，莫",
+    "radical": "鼎部",
+    "category": "器物"
+  },
+  {
+    "form": "克",
+    "char": "克",
+    "pinyin": "ke4",
+    "meaning": "肩也。象屋下刻木之形。凡克之屬皆从克。",
+    "radical": "克部",
+    "category": "抽象"
+  },
+  {
+    "form": "彔",
+    "char": "彔",
+    "pinyin": "lu4",
+    "meaning": "刻木录录也。象形。凡录之屬皆从录。",
+    "radical": "彔部",
+    "category": "抽象"
+  },
+  {
+    "form": "禾",
+    "char": "禾",
+    "pinyin": "he2",
+    "meaning": "嘉穀也。二月始生，八月而孰，得時之中，故謂之禾。禾，木也。木王而生，金王而死。从",
+    "radical": "禾部",
+    "category": "抽象"
+  },
+  {
+    "form": "秝",
+    "char": "秝",
+    "pinyin": "li4",
+    "meaning": "稀疏適也。从二禾。凡秝之屬皆从秝。讀若歷。",
+    "radical": "秝部",
+    "category": "抽象"
+  },
+  {
+    "form": "黍",
+    "char": "黍",
+    "pinyin": "shu3",
+    "meaning": "禾屬而黏者也。以大暑而穜，故謂之黍。从禾，雨省聲。孔子曰：\"黍可爲酒，禾入水也。",
+    "radical": "黍部",
+    "category": "抽象"
+  },
+  {
+    "form": "香",
+    "char": "香",
+    "pinyin": "xiang1",
+    "meaning": "芳也。从黍从甘。《春秋傳》曰：\"黍稷馨香。\"凡香之屬皆从香。",
+    "radical": "香部",
+    "category": "抽象"
+  },
+  {
+    "form": "米",
+    "char": "米",
+    "pinyin": "mi3",
+    "meaning": "粟實也。象禾實之形。凡米之屬皆从米。",
+    "radical": "米部",
+    "category": "抽象"
+  },
+  {
+    "form": "毇",
+    "char": "毇",
+    "pinyin": "zuo2",
+    "meaning": "米一斛舂爲八斗也。从□从殳。凡毇之屬皆从毇。",
+    "radical": "毇部",
+    "category": "抽象"
+  },
+  {
+    "form": "臼",
+    "char": "臼",
+    "pinyin": "jiu4",
+    "meaning": "舂也。古者掘地爲臼，其後穿木石。象形。中，米也。凡臼之屬皆从臼。",
+    "radical": "臼部",
+    "category": "器物"
+  },
+  {
+    "form": "凶",
+    "char": "凶",
+    "pinyin": "xiong1",
+    "meaning": "惡也。象地穿交陷其中也。凡凶之屬皆从凶。",
+    "radical": "凶部",
+    "category": "抽象"
+  },
+  {
+    "form": "朩",
+    "char": "朩",
+    "pinyin": "pin4",
+    "meaning": "分枲莖皮也。从屮，八象枲之皮莖也。凡朩之屬皆从朩。讀若髕。",
+    "radical": "朩部",
+    "category": "抽象"
+  },
+  {
+    "form": "麻",
+    "char": "麻",
+    "pinyin": "ma2",
+    "meaning": "與□同。人所治，在屋下。从广从□。凡麻之屬皆从麻。",
+    "radical": "麻部",
+    "category": "抽象"
+  },
+  {
+    "form": "尗",
+    "char": "尗",
+    "pinyin": "shu1",
+    "meaning": "豆也。象尗豆生之形也。凡尗之屬皆从尗。",
+    "radical": "尗部",
+    "category": "抽象"
+  },
+  {
+    "form": "耑",
+    "char": "耑",
+    "pinyin": "duan1",
+    "meaning": "物初生之題也。上象生形，下象其根也。凡耑之屬皆从耑。",
+    "radical": "耑部",
+    "category": "抽象"
+  },
+  {
+    "form": "韭",
+    "char": "韭",
+    "pinyin": "jiu3/zhuan1",
+    "meaning": "菜名。一穜而久者，故謂之韭。象形，在一之上。一，地也。此與耑同意。凡韭之屬皆从韭",
+    "radical": "韭部",
+    "category": "抽象"
+  },
+  {
+    "form": "瓜",
+    "char": "瓜",
+    "pinyin": "gua1/gua1",
+    "meaning": "□也。象形。凡瓜之屬皆从瓜。",
+    "radical": "瓜部",
+    "category": "抽象"
+  },
+  {
+    "form": "瓠",
+    "char": "瓠",
+    "pinyin": "hu4",
+    "meaning": "匏也。从瓜夸聲。凡瓠之屬皆从瓠。",
+    "radical": "瓠部",
+    "category": "抽象"
+  },
+  {
+    "form": "宀",
+    "char": "宀",
+    "pinyin": "mian2",
+    "meaning": "交覆深屋也。象形。凡宀之屬皆从宀。",
+    "radical": "宀部",
+    "category": "抽象"
+  },
+  {
+    "form": "宮",
+    "char": "宮",
+    "pinyin": "gong1",
+    "meaning": "室也。从宀，躳省聲。凡宮之屬皆从宮。",
+    "radical": "宮部",
+    "category": "抽象"
+  },
+  {
+    "form": "呂",
+    "char": "呂",
+    "pinyin": "lv3",
+    "meaning": "□骨也。象形。昔太嶽爲禹心呂之臣，故封呂矦。凡呂之屬皆从呂。",
+    "radical": "呂部",
+    "category": "抽象"
+  },
+  {
+    "form": "穴",
+    "char": "穴",
+    "pinyin": "xue2",
+    "meaning": "土室也。从宀八聲。凡穴之屬皆从穴。",
+    "radical": "穴部",
+    "category": "抽象"
+  },
+  {
+    "form": "疒",
+    "char": "疒",
+    "pinyin": "ne4/chuang2",
+    "meaning": "倚也。人有疾病，象倚箸之形。凡疒之屬皆从疒。",
+    "radical": "疒部",
+    "category": "人体"
+  },
+  {
+    "form": "冖",
+    "char": "冖",
+    "pinyin": "mi4",
+    "meaning": "覆也。从一下垂也。凡冂之屬皆从冂。",
+    "radical": "冖部",
+    "category": "抽象"
+  },
+  {
+    "form": "冃",
+    "char": "冃",
+    "pinyin": "mao4",
+    "meaning": "小兒蠻夷頭衣也。从冂；二，其飾也。凡冃之屬皆从冃。",
+    "radical": "冃部",
+    "category": "抽象"
+  },
+  {
+    "form": "网",
+    "char": "网",
+    "pinyin": "wang3",
+    "meaning": "庖犧所結繩以漁。从冂，下象网交文。凡网之屬皆从网。今經典變隸作□。",
+    "radical": "网部",
+    "category": "抽象"
+  },
+  {
+    "form": "襾",
+    "char": "襾",
+    "pinyin": "ya4/xia4",
+    "meaning": "覆也。从冂，上下覆之。凡襾之屬皆从襾。讀若□。",
+    "radical": "襾部",
+    "category": "抽象"
+  },
+  {
+    "form": "巾",
+    "char": "巾",
+    "pinyin": "jin1",
+    "meaning": "佩巾也。从冂，丨象糸也。凡巾之屬皆从巾。",
+    "radical": "巾部",
+    "category": "抽象"
+  },
+  {
+    "form": "巿",
+    "char": "巿",
+    "pinyin": "fu2",
+    "meaning": "韠也。上古衣蔽前而已，巿以象之。天子朱巿，諸矦赤巿，大夫葱衡。从巾，象連帶之形。",
+    "radical": "巿部",
+    "category": "抽象"
+  },
+  {
+    "form": "帛",
+    "char": "帛",
+    "pinyin": "bo2",
+    "meaning": "繒也。从巾白聲。凡帛之屬皆从帛。",
+    "radical": "帛部",
+    "category": "抽象"
+  },
+  {
+    "form": "黹",
+    "char": "黹",
+    "pinyin": "zhi3",
+    "meaning": "箴縷所紩衣。从□，丵省。凡黹之屬皆从黹。",
+    "radical": "黹部",
+    "category": "抽象"
+  },
+  {
+    "form": "人",
+    "char": "人",
+    "pinyin": "ren2",
+    "meaning": "天地之性最貴者也。此籒文。象臂脛之形。凡人之屬皆从人。",
+    "radical": "人部",
+    "category": "人体"
+  },
+  {
+    "form": "匕",
+    "char": "匕",
+    "pinyin": "bi3",
+    "meaning": "相與比敘也。从反人。匕，亦所以用比取飯，一名柶。凡匕之屬皆从匕。",
+    "radical": "匕部",
+    "category": "抽象"
+  },
+  {
+    "form": "从",
+    "char": "从",
+    "pinyin": "cong2/zong4",
+    "meaning": "相聽也。从二人。凡从之屬皆从从。",
+    "radical": "从部",
+    "category": "抽象"
+  },
+  {
+    "form": "比",
+    "char": "比",
+    "pinyin": "bi3/bi4",
+    "meaning": "密也。二人爲从，反从爲比。凡比之屬皆从比。",
+    "radical": "比部",
+    "category": "抽象"
+  },
+  {
+    "form": "北",
+    "char": "北",
+    "pinyin": "bei4/bei3",
+    "meaning": "□也。从二人相背。凡北之屬皆从北。",
+    "radical": "北部",
+    "category": "抽象"
+  },
+  {
+    "form": "丘",
+    "char": "丘",
+    "pinyin": "qiu1",
+    "meaning": "土之高也，非人所爲也。从北从一。一，地也，人居在丘南，故从北。中邦之居，在崐崘東",
+    "radical": "丘部",
+    "category": "抽象"
+  },
+  {
+    "form": "重",
+    "char": "重",
+    "pinyin": "zhong4",
+    "meaning": "厚也。从壬東聲。凡重之屬皆从重。",
+    "radical": "重部",
+    "category": "抽象"
+  },
+  {
+    "form": "臥",
+    "char": "臥",
+    "pinyin": "wo4",
+    "meaning": "休也。从人、臣，取其伏也。凡臥之屬皆从臥。",
+    "radical": "臥部",
+    "category": "抽象"
+  },
+  {
+    "form": "身",
+    "char": "身",
+    "pinyin": "shen1",
+    "meaning": "躳也。象人之身。从人□聲。凡身之屬皆从身。",
+    "radical": "身部",
+    "category": "人体"
+  },
+  {
+    "form": "衣",
+    "char": "衣",
+    "pinyin": "yi1",
+    "meaning": "依也。上曰衣，下曰裳。象覆二人之形。凡衣之屬皆从衣。",
+    "radical": "衣部",
+    "category": "抽象"
+  },
+  {
+    "form": "裘",
+    "char": "裘",
+    "pinyin": "qiu2",
+    "meaning": "皮衣也。从衣求聲。一曰象形，與衰同意。凡裘之屬皆从裘。",
+    "radical": "裘部",
+    "category": "抽象"
+  },
+  {
+    "form": "老",
+    "char": "老",
+    "pinyin": "lao3",
+    "meaning": "考也。七十曰老。从人、毛、匕。言須髮變白也。凡老之屬皆从老。",
+    "radical": "老部",
+    "category": "抽象"
+  },
+  {
+    "form": "毛",
+    "char": "毛",
+    "pinyin": "mao2",
+    "meaning": "眉髮之屬及獸毛也。象形。凡毛之屬皆从毛。",
+    "radical": "毛部",
+    "category": "人体"
+  },
+  {
+    "form": "毳",
+    "char": "毳",
+    "pinyin": "cui4",
+    "meaning": "獸細毛也。从三毛。凡毳之屬皆从毳。",
+    "radical": "毳部",
+    "category": "抽象"
+  },
+  {
+    "form": "尸",
+    "char": "尸",
+    "pinyin": "shi1",
+    "meaning": "陳也。象臥之形。凡尸之屬皆从尸。",
+    "radical": "尸部",
+    "category": "抽象"
+  },
+  {
+    "form": "尺",
+    "char": "尺",
+    "pinyin": "chi3",
+    "meaning": "十寸也。人手卻十分動脈爲寸口。十寸爲尺。尺，所以指尺□榘事也。从尸从乙。乙，所識",
+    "radical": "尺部",
+    "category": "抽象"
+  },
+  {
+    "form": "尾",
+    "char": "尾",
+    "pinyin": "wei3",
+    "meaning": "微也。从到毛在尸後。古人或飾系尾，西南夷亦然。凡尾之屬皆从尾。今隸變作尾。",
+    "radical": "尾部",
+    "category": "抽象"
+  },
+  {
+    "form": "履",
+    "char": "履",
+    "pinyin": "lv3/li3",
+    "meaning": "足所依也。从尸从彳从夊，舟象履形。一曰尸聲。凡履之屬皆从履。",
+    "radical": "履部",
+    "category": "抽象"
+  },
+  {
+    "form": "舟",
+    "char": "舟",
+    "pinyin": "zhou1",
+    "meaning": "船也。古者，共鼓、貨狄，刳木爲舟，剡木爲楫，以濟不通。象形。凡舟之屬皆从舟。",
+    "radical": "舟部",
+    "category": "器物"
+  },
+  {
+    "form": "方",
+    "char": "方",
+    "pinyin": "fang1/fang2/pang2",
+    "meaning": "併船也。象兩舟省、緫頭形。凡方之屬皆从方。",
+    "radical": "方部",
+    "category": "抽象"
+  },
+  {
+    "form": "儿",
+    "char": "儿",
+    "pinyin": "ren2",
+    "meaning": "仁人也。古文奇字人也。象形。孔子曰：\"在人下，故詰屈。\"凡儿之屬皆从儿。",
+    "radical": "儿部",
+    "category": "抽象"
+  },
+  {
+    "form": "兄",
+    "char": "兄",
+    "pinyin": "xiong1",
+    "meaning": "長也。从儿从口。凡兄之屬皆从兄。",
+    "radical": "兄部",
+    "category": "抽象"
+  },
+  {
+    "form": "兂",
+    "char": "兂",
+    "pinyin": "zen1/zan1",
+    "meaning": "首笄也。从人，匕象簪形。凡兂之屬皆从兂。",
+    "radical": "兂部",
+    "category": "抽象"
+  },
+  {
+    "form": "皃",
+    "char": "皃",
+    "pinyin": "mao4",
+    "meaning": "頌儀也。从人，白象人面形。凡皃之屬皆从皃。",
+    "radical": "皃部",
+    "category": "抽象"
+  },
+  {
+    "form": "先",
+    "char": "先",
+    "pinyin": "xian1",
+    "meaning": "前進也。从儿从之。凡先之屬皆从先。",
+    "radical": "先部",
+    "category": "抽象"
+  },
+  {
+    "form": "禿",
+    "char": "禿",
+    "pinyin": "tu1",
+    "meaning": "無髮也。从人，上象禾粟之形，取其聲。凡秃之屬皆从秃。王育說：蒼頡出見秃人伏禾中，",
+    "radical": "禿部",
+    "category": "抽象"
+  },
+  {
+    "form": "見",
+    "char": "見",
+    "pinyin": "jian4/xian4",
+    "meaning": "視也。从儿从目。凡見之屬皆从見。",
+    "radical": "見部",
+    "category": "抽象"
+  },
+  {
+    "form": "覞",
+    "char": "覞",
+    "pinyin": "yao4",
+    "meaning": "竝視也。从二見。凡覞之屬皆从覞。",
+    "radical": "覞部",
+    "category": "抽象"
+  },
+  {
+    "form": "欠",
+    "char": "欠",
+    "pinyin": "qian4",
+    "meaning": "張口气悟也。象气从人上出之形。凡欠之屬皆从欠。",
+    "radical": "欠部",
+    "category": "抽象"
+  },
+  {
+    "form": "旡",
+    "char": "旡",
+    "pinyin": "ji4",
+    "meaning": "□食气屰不得息曰□。从反欠。凡□之屬皆从□。今變隸作旡。",
+    "radical": "旡部",
+    "category": "抽象"
+  },
+  {
+    "form": "頁",
+    "char": "頁",
+    "pinyin": "xie2",
+    "meaning": "頭也。从□从儿。古文□首如此。凡頁之屬皆从頁。□者，□首字也。",
+    "radical": "頁部",
+    "category": "抽象"
+  },
+  {
+    "form": "面",
+    "char": "面",
+    "pinyin": "mian4",
+    "meaning": "顔前也。从□，象人面形。凡面之屬皆从面。",
+    "radical": "面部",
+    "category": "抽象"
+  },
+  {
+    "form": "丏",
+    "char": "丏",
+    "pinyin": "mian3",
+    "meaning": "不見也。象壅蔽之形。凡丏之屬皆从丏。",
+    "radical": "丏部",
+    "category": "抽象"
+  },
+  {
+    "form": "首",
+    "char": "首",
+    "pinyin": "shou3",
+    "meaning": "□同。古文□也。巛象髪，謂之鬊，鬊卽巛也。凡□之屬皆从□。",
+    "radical": "首部",
+    "category": "人体"
+  },
+  {
+    "form": "須",
+    "char": "須",
+    "pinyin": "xu1",
+    "meaning": "面毛也。从頁从彡。凡須之屬皆从須。",
+    "radical": "須部",
+    "category": "抽象"
+  },
+  {
+    "form": "彡",
+    "char": "彡",
+    "pinyin": "shan1",
+    "meaning": "毛飾畫文也。象形。凡彡之屬皆从彡。",
+    "radical": "彡部",
+    "category": "抽象"
+  },
+  {
+    "form": "彣",
+    "char": "彣",
+    "pinyin": "wen2",
+    "meaning": "□也。从彡从文。凡彣之屬皆从彣。",
+    "radical": "彣部",
+    "category": "抽象"
+  },
+  {
+    "form": "文",
+    "char": "文",
+    "pinyin": "wen2",
+    "meaning": "錯畫也。象交文。凡文之屬皆从文。",
+    "radical": "文部",
+    "category": "抽象"
+  },
+  {
+    "form": "髟",
+    "char": "髟",
+    "pinyin": "biao1/shan1",
+    "meaning": "長髮猋猋也。从長从彡。凡髟之屬皆从髟。",
+    "radical": "髟部",
+    "category": "人体"
+  },
+  {
+    "form": "后",
+    "char": "后",
+    "pinyin": "hou4",
+    "meaning": "繼體君也。象人之形。施令以告四方，故厂之。从一、口。發號者，君后也。凡后之屬皆从",
+    "radical": "后部",
+    "category": "抽象"
+  },
+  {
+    "form": "司",
+    "char": "司",
+    "pinyin": "si1",
+    "meaning": "臣司事於外者。从反后。凡司之屬皆从司。",
+    "radical": "司部",
+    "category": "抽象"
+  },
+  {
+    "form": "卮",
+    "char": "卮",
+    "pinyin": "zhi1",
+    "meaning": "圜器也。一名觛。所以節飲食。象人，卪在其下也。《易》曰：\"君子節飲食。\"凡巵之屬",
+    "radical": "卮部",
+    "category": "抽象"
+  },
+  {
+    "form": "卩",
+    "char": "卩",
+    "pinyin": "jie2",
+    "meaning": "瑞信也。守國者用玉卪，守都鄙者用角卪，使山邦者用虎卪，士邦者用人卪，澤邦者用龍卪",
+    "radical": "卩部",
+    "category": "抽象"
+  },
+  {
+    "form": "印",
+    "char": "印",
+    "pinyin": "yin4",
+    "meaning": "執政所持信也。从爪从卪。凡印之屬皆从印。",
+    "radical": "印部",
+    "category": "抽象"
+  },
+  {
+    "form": "色",
+    "char": "色",
+    "pinyin": "se4",
+    "meaning": "顔气也。从人从卪。凡色之屬皆从色。",
+    "radical": "色部",
+    "category": "抽象"
+  },
+  {
+    "form": "卯",
+    "char": "卯",
+    "pinyin": "qing1",
+    "meaning": "事之制也。从卩、纯。凡卯之屬皆从卯。闕。",
+    "radical": "卯部",
+    "category": "抽象"
+  },
+  {
+    "form": "辟",
+    "char": "辟",
+    "pinyin": "bi4",
+    "meaning": "法也。从卩从辛，節制其辠也；从口，用法者也。凡辟之屬皆从辟。",
+    "radical": "辟部",
+    "category": "抽象"
+  },
+  {
+    "form": "勹",
+    "char": "勹",
+    "pinyin": "bao1",
+    "meaning": "裹也。象人曲形，有所包裹。凡勹之屬皆从勹。",
+    "radical": "勹部",
+    "category": "抽象"
+  },
+  {
+    "form": "包",
+    "char": "包",
+    "pinyin": "bao1",
+    "meaning": "象人褢妊，巳在中，象子未成形也。元气起於子。子，人所生也。男左行三十，女右行二十",
+    "radical": "包部",
+    "category": "抽象"
+  },
+  {
+    "form": "茍",
+    "char": "茍",
+    "pinyin": "ji4",
+    "meaning": "自急敕也。从羊省，从包省。从口，口猶愼言也。从羊，羊與義、善、美同意。凡茍之屬皆",
+    "radical": "茍部",
+    "category": "抽象"
+  },
+  {
+    "form": "鬼",
+    "char": "鬼",
+    "pinyin": "gui3",
+    "meaning": "人所歸爲鬼。从人，象鬼頭。鬼陰气賊害，从厶。凡鬼之屬皆从鬼。",
+    "radical": "鬼部",
+    "category": "抽象"
+  },
+  {
+    "form": "甶",
+    "char": "甶",
+    "pinyin": "fu2",
+    "meaning": "鬼頭也。象形。凡甶之屬皆从甶。",
+    "radical": "甶部",
+    "category": "抽象"
+  },
+  {
+    "form": "厶",
+    "char": "厶",
+    "pinyin": "si1",
+    "meaning": "姦衺也。韓非曰：\"蒼頡作字，自營爲厶。\"凡厶之屬皆从厶。",
+    "radical": "厶部",
+    "category": "抽象"
+  },
+  {
+    "form": "嵬",
+    "char": "嵬",
+    "pinyin": "wei2",
+    "meaning": "高不平也。从山鬼聲。凡嵬之屬皆从嵬。",
+    "radical": "嵬部",
+    "category": "抽象"
+  },
+  {
+    "form": "山",
+    "char": "山",
+    "pinyin": "shan1",
+    "meaning": "宣也。宣气□，生萬物，有石而高。象形。凡山之屬皆从山。",
+    "radical": "山部",
+    "category": "自然"
+  },
+  {
+    "form": "屾",
+    "char": "屾",
+    "pinyin": "shen1",
+    "meaning": "二山也。凡屾之屬皆从屾。",
+    "radical": "屾部",
+    "category": "抽象"
+  },
+  {
+    "form": "屵",
+    "char": "屵",
+    "pinyin": "e4",
+    "meaning": "岸高也。从山、厂，厂亦聲。凡屵之屬皆从屵。",
+    "radical": "屵部",
+    "category": "抽象"
+  },
+  {
+    "form": "广",
+    "char": "广",
+    "pinyin": "yan3",
+    "meaning": "因广爲屋，象對剌高屋之形。凡广之屬皆从广。讀若儼然之儼。",
+    "radical": "广部",
+    "category": "抽象"
+  },
+  {
+    "form": "厂",
+    "char": "厂",
+    "pinyin": "han3",
+    "meaning": "山石之厓巖，人可居。象形。凡厂之屬皆从厂。",
+    "radical": "厂部",
+    "category": "自然"
+  },
+  {
+    "form": "丸",
+    "char": "丸",
+    "pinyin": "wan2",
+    "meaning": "圜，傾側而轉者。从反仄。凡丸之屬皆从丸。",
+    "radical": "丸部",
+    "category": "抽象"
+  },
+  {
+    "form": "危",
+    "char": "危",
+    "pinyin": "wei1",
+    "meaning": "在高而懼也。从厃，自卪止之。凡危之屬皆从危。",
+    "radical": "危部",
+    "category": "抽象"
+  },
+  {
+    "form": "石",
+    "char": "石",
+    "pinyin": "shi2",
+    "meaning": "山石也。在厂之下；囗，象形。凡石之屬皆从石。",
+    "radical": "石部",
+    "category": "自然"
+  },
+  {
+    "form": "長",
+    "char": "長",
+    "pinyin": "chang2/zhang3",
+    "meaning": "久遠也。从兀从匕。兀者，高遠意也。久則變化。亾聲。纼者，倒亾也。凡長之屬皆从長。",
+    "radical": "長部",
+    "category": "抽象"
+  },
+  {
+    "form": "勿",
+    "char": "勿",
+    "pinyin": "wu4",
+    "meaning": "州里所建旗。象其柄，有三游。雜帛，幅半異。所以趣民，故遽，稱勿勿。凡勿之屬皆从勿",
+    "radical": "勿部",
+    "category": "抽象"
+  },
+  {
+    "form": "冄",
+    "char": "冄",
+    "pinyin": "ran3",
+    "meaning": "毛冄冄也。象形。凡冄之屬皆从冄。",
+    "radical": "冄部",
+    "category": "抽象"
+  },
+  {
+    "form": "而",
+    "char": "而",
+    "pinyin": "er2",
+    "meaning": "頰毛也。象毛之形。《周禮》曰：\"作其鱗之而。\"凡而之屬皆从而。",
+    "radical": "而部",
+    "category": "人体"
+  },
+  {
+    "form": "豕",
+    "char": "豕",
+    "pinyin": "shi3",
+    "meaning": "彘也。竭其尾，故謂之豕。象毛足而後有尾。讀與豨同。(桉：今丗字，誤以豕爲彘，以彘",
+    "radical": "豕部",
+    "category": "动物"
+  },
+  {
+    "form": "彑",
+    "char": "彑",
+    "pinyin": "ji4",
+    "meaning": "豕之頭。象其銳，而上見也。凡彑之屬皆从彑。讀若罽。",
+    "radical": "彑部",
+    "category": "抽象"
+  },
+  {
+    "form": "豚",
+    "char": "豚",
+    "pinyin": "tun2/tuan4",
+    "meaning": "小豕也。从彖省，象形。从又持肉，以給祠祀。凡豚之屬皆从豚。",
+    "radical": "豚部",
+    "category": "抽象"
+  },
+  {
+    "form": "豸",
+    "char": "豸",
+    "pinyin": "zhi4",
+    "meaning": "獸長□，行豸豸然，欲有所司殺形。凡豸之屬皆从豸。(司殺讀若伺候之伺。)",
+    "radical": "豸部",
+    "category": "抽象"
+  },
+  {
+    "form": "易",
+    "char": "易",
+    "pinyin": "yi4",
+    "meaning": "蜥易，蝘蜓，守宮也。象形。《祕書》說：日月爲易，象陰陽也。一曰从勿。凡易之屬皆从",
+    "radical": "易部",
+    "category": "抽象"
+  },
+  {
+    "form": "象",
+    "char": "象",
+    "pinyin": "xiang4",
+    "meaning": "長鼻牙，南越大獸，三秊一乳，象耳牙四足之形。凡象之屬皆从象。",
+    "radical": "象部",
+    "category": "动物"
+  },
+  {
+    "form": "馬",
+    "char": "馬",
+    "pinyin": "ma3",
+    "meaning": "怒也。武也。象馬頭髦尾四足之形。凡馬之屬皆从馬。",
+    "radical": "馬部",
+    "category": "抽象"
+  },
+  {
+    "form": "鹿",
+    "char": "鹿",
+    "pinyin": "lu4",
+    "meaning": "獸也。象頭角四足之形。鳥鹿足相似，从匕。凡鹿之屬皆从鹿。",
+    "radical": "鹿部",
+    "category": "动物"
+  },
+  {
+    "form": "麤",
+    "char": "麤",
+    "pinyin": "cu1",
+    "meaning": "行超遠也。从三鹿。凡麤之屬皆从麤。",
+    "radical": "麤部",
+    "category": "抽象"
+  },
+  {
+    "form": "兔",
+    "char": "兔",
+    "pinyin": "tu4",
+    "meaning": "獸名。象踞，後其尾形。兔頭與□頭同。凡兔之屬皆从兔。",
+    "radical": "兔部",
+    "category": "动物"
+  },
+  {
+    "form": "萈",
+    "char": "萈",
+    "pinyin": "huan2",
+    "meaning": "山羊細角者。从兔足，□聲。凡萈之屬皆从萈。讀若丸。寬字从此。",
+    "radical": "萈部",
+    "category": "抽象"
+  },
+  {
+    "form": "犬",
+    "char": "犬",
+    "pinyin": "quan3",
+    "meaning": "狗之有縣蹏者也。象形。孔子曰：\"視犬之字如畫狗也。\"凡犬之屬皆从犬。",
+    "radical": "犬部",
+    "category": "动物"
+  },
+  {
+    "form": "鼠",
+    "char": "鼠",
+    "pinyin": "shu3",
+    "meaning": "穴蟲之緫名也。象形。凡鼠之屬皆从鼠。",
+    "radical": "鼠部",
+    "category": "动物"
+  },
+  {
+    "form": "能",
+    "char": "能",
+    "pinyin": "neng2",
+    "meaning": "熊屬。足似鹿。从肉□聲。能獸堅中，故稱賢能；而彊壯，稱能傑也。凡能之屬皆从能。",
+    "radical": "能部",
+    "category": "抽象"
+  },
+  {
+    "form": "熊",
+    "char": "熊",
+    "pinyin": "xiong2",
+    "meaning": "獸似豕。山居，冬蟄。从能，炎省聲。凡熊之屬皆从熊。",
+    "radical": "熊部",
+    "category": "动物"
+  },
+  {
+    "form": "火",
+    "char": "火",
+    "pinyin": "huo3",
+    "meaning": "燬也。南方之行，炎而上。象形。凡火之屬皆从火。",
+    "radical": "火部",
+    "category": "自然"
+  },
+  {
+    "form": "炎",
+    "char": "炎",
+    "pinyin": "yan2",
+    "meaning": "火光上也。从重火。凡炎之屬皆从炎。",
+    "radical": "炎部",
+    "category": "抽象"
+  },
+  {
+    "form": "黑",
+    "char": "黑",
+    "pinyin": "hei1",
+    "meaning": "火所熏之色也。从炎，上出□。□，古窻字。凡黑之屬皆从黑。",
+    "radical": "黑部",
+    "category": "抽象"
+  },
+  {
+    "form": "囪",
+    "char": "囪",
+    "pinyin": "chuang1/cong1",
+    "meaning": "在牆曰牖，在屋曰囪。象形。凡囪之屬皆从囪。",
+    "radical": "囪部",
+    "category": "抽象"
+  },
+  {
+    "form": "焱",
+    "char": "焱",
+    "pinyin": "yan4",
+    "meaning": "火華也。从三火。凡焱之屬皆从焱。",
+    "radical": "焱部",
+    "category": "抽象"
+  },
+  {
+    "form": "炙",
+    "char": "炙",
+    "pinyin": "zhi4",
+    "meaning": "炮肉也。从肉在火上。凡炙之屬皆从炙。",
+    "radical": "炙部",
+    "category": "抽象"
+  },
+  {
+    "form": "赤",
+    "char": "赤",
+    "pinyin": "chi4",
+    "meaning": "南方色也。从大从火。凡赤之屬皆从赤。",
+    "radical": "赤部",
+    "category": "抽象"
+  },
+  {
+    "form": "大",
+    "char": "大",
+    "pinyin": "da4/dai4",
+    "meaning": "天大，地大，人亦大。故大象人形。古文大(他達切)也。凡大之屬皆从大。",
+    "radical": "大部",
+    "category": "抽象"
+  },
+  {
+    "form": "亦",
+    "char": "亦",
+    "pinyin": "yi4",
+    "meaning": "人之臂亦也。从大，象兩亦之形。凡亦之屬皆从亦。",
+    "radical": "亦部",
+    "category": "抽象"
+  },
+  {
+    "form": "夨",
+    "char": "夨",
+    "pinyin": "ze4",
+    "meaning": "傾頭也。从大，象形。凡夨之屬皆从夨。",
+    "radical": "夨部",
+    "category": "抽象"
+  },
+  {
+    "form": "夭",
+    "char": "夭",
+    "pinyin": "yao1",
+    "meaning": "屈也。从大，象形。凡夭之屬皆从夭。",
+    "radical": "夭部",
+    "category": "抽象"
+  },
+  {
+    "form": "交",
+    "char": "交",
+    "pinyin": "jiao1",
+    "meaning": "交脛也。从大，象交形。凡交之屬皆从交。",
+    "radical": "交部",
+    "category": "抽象"
+  },
+  {
+    "form": "尣",
+    "char": "尣",
+    "pinyin": "wang1",
+    "meaning": "□，曲脛也。从大，象偏曲之形。凡□之屬皆从□。",
+    "radical": "尣部",
+    "category": "抽象"
+  },
+  {
+    "form": "壺",
+    "char": "壺",
+    "pinyin": "hu2",
+    "meaning": "昆吾圜器也。象形。从大，象其蓋也。凡壷之屬皆从壷。",
+    "radical": "壺部",
+    "category": "抽象"
+  },
+  {
+    "form": "壹",
+    "char": "壹",
+    "pinyin": "yi1",
+    "meaning": "專壹也。从壺吉聲。凡壹之屬皆从壹。",
+    "radical": "壹部",
+    "category": "抽象"
+  },
+  {
+    "form": "幸",
+    "char": "幸",
+    "pinyin": "nie4",
+    "meaning": "所以驚人也。从大从□。一曰大聲也。凡幸之屬皆从幸。一曰讀若瓠。一曰俗語以盜不止爲",
+    "radical": "幸部",
+    "category": "抽象"
+  },
+  {
+    "form": "奢",
+    "char": "奢",
+    "pinyin": "she1",
+    "meaning": "張也。从大者聲。凡奢之屬皆从奢。",
+    "radical": "奢部",
+    "category": "抽象"
+  },
+  {
+    "form": "亢",
+    "char": "亢",
+    "pinyin": "gang1/kang4",
+    "meaning": "人頸也。从大省，象頸脈形。凡亢之屬皆从亢。",
+    "radical": "亢部",
+    "category": "抽象"
+  },
+  {
+    "form": "夲",
+    "char": "夲",
+    "pinyin": "tao1",
+    "meaning": "進趣也。从大从十。大十，猶兼十人也。凡□之屬皆从□。讀若滔。",
+    "radical": "夲部",
+    "category": "抽象"
+  },
+  {
+    "form": "夰",
+    "char": "夰",
+    "pinyin": "gao3",
+    "meaning": "放也。从大而八分也。凡夰之屬皆从夰。",
+    "radical": "夰部",
+    "category": "抽象"
+  },
+  {
+    "form": "夫",
+    "char": "夫",
+    "pinyin": "fu1/fu2",
+    "meaning": "丈夫也。从大，一以象簪也。周制以八寸爲尺，十尺爲丈。人長八尺，故曰丈夫。凡夫之屬",
+    "radical": "夫部",
+    "category": "抽象"
+  },
+  {
+    "form": "立",
+    "char": "立",
+    "pinyin": "li4",
+    "meaning": "住也。从大立一之上。凡立之屬皆从立。",
+    "radical": "立部",
+    "category": "动作"
+  },
+  {
+    "form": "竝",
+    "char": "竝",
+    "pinyin": "bing4",
+    "meaning": "併也。从二立。凡竝之屬皆从竝。",
+    "radical": "竝部",
+    "category": "抽象"
+  },
+  {
+    "form": "囟",
+    "char": "囟",
+    "pinyin": "xin4",
+    "meaning": "頭會，匘蓋也。象形。凡囟之屬皆从囟。",
+    "radical": "囟部",
+    "category": "抽象"
+  },
+  {
+    "form": "思",
+    "char": "思",
+    "pinyin": "si1",
+    "meaning": "容也。从心囟聲。凡思之屬皆从思。",
+    "radical": "思部",
+    "category": "抽象"
+  },
+  {
+    "form": "心",
+    "char": "心",
+    "pinyin": "xin1",
+    "meaning": "人心，土藏，在身之中。象形。博士說以爲火藏。凡心之屬皆从心。",
+    "radical": "心部",
+    "category": "人体"
+  },
+  {
+    "form": "惢",
+    "char": "惢",
+    "pinyin": "suo3/rui3",
+    "meaning": "心疑也。从三心。凡惢之屬皆从惢。讀若《易》\"旅瑣瑣\"。",
+    "radical": "惢部",
+    "category": "抽象"
+  },
+  {
+    "form": "水",
+    "char": "水",
+    "pinyin": "shui3",
+    "meaning": "凖也。北方之行。象眾水並流，中有微陽之气也。凡水之屬皆从水。",
+    "radical": "水部",
+    "category": "自然"
+  },
+  {
+    "form": "沝",
+    "char": "沝",
+    "pinyin": "zhui3",
+    "meaning": "二水也。闕。凡沝之屬皆从沝。",
+    "radical": "沝部",
+    "category": "抽象"
+  },
+  {
+    "form": "瀕",
+    "char": "瀕",
+    "pinyin": "pin2/bin1",
+    "meaning": "水厓。人所賓附，頻蹙不前而止。从頁从涉。凡頻之屬皆从頻。",
+    "radical": "瀕部",
+    "category": "抽象"
+  },
+  {
+    "form": "く",
+    "char": "く",
+    "pinyin": "quan3",
+    "meaning": "水小流也。《周禮》：\"匠人爲溝洫，□廣五寸，二□爲耦；一耦之伐，廣尺、深尺，謂之",
+    "radical": "く部",
+    "category": "抽象"
+  },
+  {
+    "form": "巜",
+    "char": "巜",
+    "pinyin": "kuai4",
+    "meaning": "水流澮澮也。方百里爲巜，廣二尋，深二仞。凡巜之屬皆从巜。",
+    "radical": "巜部",
+    "category": "抽象"
+  },
+  {
+    "form": "川",
+    "char": "川",
+    "pinyin": "chuan1",
+    "meaning": "貫穿通流水也。《虞書》曰：\"濬く巜，距川。\"言深く巜之水會爲川也。凡川之屬皆从川",
+    "radical": "川部",
+    "category": "自然"
+  },
+  {
+    "form": "泉",
+    "char": "泉",
+    "pinyin": "quan2",
+    "meaning": "水原也。象水流出成川形。凡泉之屬皆从泉。",
+    "radical": "泉部",
+    "category": "自然"
+  },
+  {
+    "form": "灥",
+    "char": "灥",
+    "pinyin": "xun2",
+    "meaning": "三泉也。闕。凡灥之屬皆从灥。",
+    "radical": "灥部",
+    "category": "抽象"
+  },
+  {
+    "form": "永",
+    "char": "永",
+    "pinyin": "yong3",
+    "meaning": "長也。象水坙理之長。《詩》曰：\"江之永矣。\"凡永之屬皆从永。",
+    "radical": "永部",
+    "category": "自然"
+  },
+  {
+    "form": "谷",
+    "char": "谷",
+    "pinyin": "gu3",
+    "meaning": "泉出通川爲谷。从水半見，出於口。凡谷之屬皆从谷。",
+    "radical": "谷部",
+    "category": "自然"
+  },
+  {
+    "form": "仌",
+    "char": "仌",
+    "pinyin": "bing1",
+    "meaning": "凍也。象水凝之形。凡仌之屬皆从仌。",
+    "radical": "仌部",
+    "category": "抽象"
+  },
+  {
+    "form": "雨",
+    "char": "雨",
+    "pinyin": "yu3",
+    "meaning": "水从雲下也。一象天，冂象雲，水霝其閒也。凡雨之屬皆从雨。",
+    "radical": "雨部",
+    "category": "自然"
+  },
+  {
+    "form": "雲",
+    "char": "雲",
+    "pinyin": "yun2",
+    "meaning": "山川气也。从雨，云象雲回轉形。凡雲之屬皆从雲。",
+    "radical": "雲部",
+    "category": "抽象"
+  },
+  {
+    "form": "魚",
+    "char": "魚",
+    "pinyin": "yu2",
+    "meaning": "水蟲也。象形。魚尾與燕尾相似。凡魚之屬皆从魚。",
+    "radical": "魚部",
+    "category": "抽象"
+  },
+  {
+    "form": "燕",
+    "char": "燕",
+    "pinyin": "yan4",
+    "meaning": "玄鳥也。籋口，布翄，枝尾。象形。凡燕之屬皆从燕。",
+    "radical": "燕部",
+    "category": "抽象"
+  },
+  {
+    "form": "龍",
+    "char": "龍",
+    "pinyin": "long2",
+    "meaning": "鱗蟲之長。能幽，能明，能細，能巨，能短，能長；春分而登天，秋分而潛淵。从肉，飛之",
+    "radical": "龍部",
+    "category": "抽象"
+  },
+  {
+    "form": "飛",
+    "char": "飛",
+    "pinyin": "fei1",
+    "meaning": "鳥翥也。象形。凡飛之屬皆从飛。",
+    "radical": "飛部",
+    "category": "抽象"
+  },
+  {
+    "form": "非",
+    "char": "非",
+    "pinyin": "fei1",
+    "meaning": "違也。从飛下翄，取其相背。凡非之屬皆从非。",
+    "radical": "非部",
+    "category": "抽象"
+  },
+  {
+    "form": "卂",
+    "char": "卂",
+    "pinyin": "xun4",
+    "meaning": "疾飛也。从飛而羽不見。凡卂之屬皆从卂。",
+    "radical": "卂部",
+    "category": "抽象"
+  },
+  {
+    "form": "不",
+    "char": "不",
+    "pinyin": "fou3/bu4",
+    "meaning": "鳥飛上翔不下來也。从一，一猶天也。象形。凡不之屬皆从不。",
+    "radical": "不部",
+    "category": "抽象"
+  },
+  {
+    "form": "至",
+    "char": "至",
+    "pinyin": "zhi4",
+    "meaning": "鳥飛从高下至地也。从一，一猶地也。象形。不，上去；而至，下來也。凡至之屬皆从至。",
+    "radical": "至部",
+    "category": "抽象"
+  },
+  {
+    "form": "西",
+    "char": "西",
+    "pinyin": "xi1",
+    "meaning": "鳥在巢上。象形。日在西方而鳥棲，故因以爲東西之西。凡西之屬皆从西。",
+    "radical": "西部",
+    "category": "抽象"
+  },
+  {
+    "form": "鹵",
+    "char": "鹵",
+    "pinyin": "lu3",
+    "meaning": "西方鹹地也。从西省，象鹽形。安定有鹵縣。東方謂之□，西方謂之鹵。凡鹵之屬皆从鹵。",
+    "radical": "鹵部",
+    "category": "抽象"
+  },
+  {
+    "form": "鹽",
+    "char": "鹽",
+    "pinyin": "yan2",
+    "meaning": "鹹也。从鹵監聲。古者，宿沙初作煑海鹽。凡鹽之屬皆从鹽。",
+    "radical": "鹽部",
+    "category": "抽象"
+  },
+  {
+    "form": "戶",
+    "char": "戶",
+    "pinyin": "hu4",
+    "meaning": "護也。半門曰戶。象形。凡戶之屬皆从戶。",
+    "radical": "戶部",
+    "category": "抽象"
+  },
+  {
+    "form": "門",
+    "char": "門",
+    "pinyin": "men2",
+    "meaning": "聞也。从二戶。象形。凡門之屬皆从門。",
+    "radical": "門部",
+    "category": "抽象"
+  },
+  {
+    "form": "耳",
+    "char": "耳",
+    "pinyin": "er3",
+    "meaning": "主聽也。象形。凡耳之屬皆从耳。",
+    "radical": "耳部",
+    "category": "人体"
+  },
+  {
+    "form": "手",
+    "char": "手",
+    "pinyin": "shou3",
+    "meaning": "拳也。象形。凡手之屬皆从手。",
+    "radical": "手部",
+    "category": "人体"
+  },
+  {
+    "form": "女",
+    "char": "女",
+    "pinyin": "nv3",
+    "meaning": "婦人也。象形。王育說。凡女之屬皆从女。",
+    "radical": "女部",
+    "category": "抽象"
+  },
+  {
+    "form": "毋",
+    "char": "毋",
+    "pinyin": "wu2",
+    "meaning": "止之也。从女，有奸之者。凡毋之屬皆从毋。",
+    "radical": "毋部",
+    "category": "抽象"
+  },
+  {
+    "form": "民",
+    "char": "民",
+    "pinyin": "min2",
+    "meaning": "眾萌也。从古文之象。凡民之屬皆从民。",
+    "radical": "民部",
+    "category": "抽象"
+  },
+  {
+    "form": "丿",
+    "char": "丿",
+    "pinyin": "pie3",
+    "meaning": "右戾也。象左引之形。凡丿之屬皆从丿。",
+    "radical": "丿部",
+    "category": "抽象"
+  },
+  {
+    "form": "乁",
+    "char": "乁",
+    "pinyin": "yi2",
+    "meaning": "流也。从反□。讀若移。凡乁之屬皆从乁。",
+    "radical": "乁部",
+    "category": "抽象"
+  },
+  {
+    "form": "氏",
+    "char": "氏",
+    "pinyin": "shi4",
+    "meaning": "巴蜀山名岸脅之□箸欲落□者曰氏，氏崩，聞數百里。象形，乁聲。凡氏之屬皆从氏。楊雄",
+    "radical": "氏部",
+    "category": "抽象"
+  },
+  {
+    "form": "氐",
+    "char": "氐",
+    "pinyin": "di3",
+    "meaning": "至也。从氏下箸一。一，地也。凡氐之屬皆从氐。",
+    "radical": "氐部",
+    "category": "抽象"
+  },
+  {
+    "form": "戈",
+    "char": "戈",
+    "pinyin": "ge1",
+    "meaning": "平頭□也。从弋，一橫之。象形。凡戈之屬皆从戈。",
+    "radical": "戈部",
+    "category": "器物"
+  },
+  {
+    "form": "戉",
+    "char": "戉",
+    "pinyin": "yue4",
+    "meaning": "斧也。从戈□聲。《司馬法》曰：\"夏執玄戉，殷執白戚，周左杖黃戉，右秉白髦。\"凡戉",
+    "radical": "戉部",
+    "category": "抽象"
+  },
+  {
+    "form": "我",
+    "char": "我",
+    "pinyin": "wo3",
+    "meaning": "施身自謂也。或說我，頃頓也。从戈从钑。钑，或說古垂字。一曰古殺字。凡我之屬皆从我",
+    "radical": "我部",
+    "category": "抽象"
+  },
+  {
+    "form": "亅",
+    "char": "亅",
+    "pinyin": "jue2",
+    "meaning": "鉤逆者謂之亅。象形。凡亅之屬皆从亅。读若橜。",
+    "radical": "亅部",
+    "category": "抽象"
+  },
+  {
+    "form": "珡",
+    "char": "珡",
+    "pinyin": "qin2",
+    "meaning": "禁也。神農所作。洞越。練朱五弦，周加二弦。象形。凡珡之屬皆从珡。",
+    "radical": "珡部",
+    "category": "抽象"
+  },
+  {
+    "form": "乚",
+    "char": "乚",
+    "pinyin": "yin3",
+    "meaning": "匿也，象□曲隱蔽形。凡乚之屬皆从乚。讀若隱。",
+    "radical": "乚部",
+    "category": "抽象"
+  },
+  {
+    "form": "亡",
+    "char": "亡",
+    "pinyin": "wang2",
+    "meaning": "逃也。从人从乚。凡亡之屬皆从亡。",
+    "radical": "亡部",
+    "category": "抽象"
+  },
+  {
+    "form": "匸",
+    "char": "匸",
+    "pinyin": "xi4",
+    "meaning": "衺徯，有所俠藏也。从乚，上有一覆之。凡匸之屬皆从匸。讀與傒同。",
+    "radical": "匸部",
+    "category": "器物"
+  },
+  {
+    "form": "匚",
+    "char": "匚",
+    "pinyin": "fang1",
+    "meaning": "受物之器。象形。凡匚之屬皆从匚。讀若方。",
+    "radical": "匚部",
+    "category": "器物"
+  },
+  {
+    "form": "曲",
+    "char": "曲",
+    "pinyin": "qu1/qu3",
+    "meaning": "象器曲受物之形。或說曲，蠶薄也。凡曲之屬皆从曲。",
+    "radical": "曲部",
+    "category": "抽象"
+  },
+  {
+    "form": "甾",
+    "char": "甾",
+    "pinyin": "zi1/zai1",
+    "meaning": "東楚名缶曰甾。象形。凡甾之屬皆从甾。",
+    "radical": "甾部",
+    "category": "抽象"
+  },
+  {
+    "form": "瓦",
+    "char": "瓦",
+    "pinyin": "wa3",
+    "meaning": "土器已燒之總名。象形。凡瓦之屬皆从瓦。",
+    "radical": "瓦部",
+    "category": "器物"
+  },
+  {
+    "form": "弓",
+    "char": "弓",
+    "pinyin": "gong1",
+    "meaning": "以近窮遠。象形。古者揮作弓。《周禮》六弓：王弓、弧弓以射甲革甚質；夾弓、庾弓以射",
+    "radical": "弓部",
+    "category": "器物"
+  },
+  {
+    "form": "弜",
+    "char": "弜",
+    "pinyin": "jiang4",
+    "meaning": "彊也。从二弓。凡弜之屬皆从弜。",
+    "radical": "弜部",
+    "category": "抽象"
+  },
+  {
+    "form": "弦",
+    "char": "弦",
+    "pinyin": "xian2",
+    "meaning": "弓弦也。从弓，象絲軫之形。凡弦之屬皆从弦。",
+    "radical": "弦部",
+    "category": "抽象"
+  },
+  {
+    "form": "系",
+    "char": "系",
+    "pinyin": "xi4",
+    "meaning": "繋也。从糸丿聲。凡系之屬皆从系。",
+    "radical": "系部",
+    "category": "抽象"
+  },
+  {
+    "form": "糸",
+    "char": "糸",
+    "pinyin": "mi4",
+    "meaning": "細絲也。象束絲之形。凡糸之屬皆从糸。讀若覛。",
+    "radical": "糸部",
+    "category": "抽象"
+  },
+  {
+    "form": "素",
+    "char": "素",
+    "pinyin": "su4",
+    "meaning": "白緻繒也。从糸、□，取其澤也。凡素之屬皆从素。",
+    "radical": "素部",
+    "category": "抽象"
+  },
+  {
+    "form": "絲",
+    "char": "絲",
+    "pinyin": "si1",
+    "meaning": "蠶所吐也。从二糸。凡絲之屬皆从絲。",
+    "radical": "絲部",
+    "category": "抽象"
+  },
+  {
+    "form": "率",
+    "char": "率",
+    "pinyin": "shuai4/lv4",
+    "meaning": "捕鳥畢也。象絲罔，上下其竿柄也。凡率之屬皆从率。",
+    "radical": "率部",
+    "category": "抽象"
+  },
+  {
+    "form": "虫",
+    "char": "虫",
+    "pinyin": "hui3/chong2",
+    "meaning": "一名蝮，博三寸，首大如擘指。象其臥形。物之微細，或行，或毛，或蠃，或介，或鱗，以",
+    "radical": "虫部",
+    "category": "动物"
+  },
+  {
+    "form": "蟲",
+    "char": "蟲",
+    "pinyin": "chong2",
+    "meaning": "有足謂之蟲，無足謂之豸。从三虫。凡蟲之屬皆从蟲。",
+    "radical": "蟲部",
+    "category": "抽象"
+  },
+  {
+    "form": "風",
+    "char": "風",
+    "pinyin": "feng1",
+    "meaning": "八風也。東方曰明庶風，東南曰清明風，南方曰景風，西南曰涼風，西方曰閶闔風，西北曰",
+    "radical": "風部",
+    "category": "抽象"
+  },
+  {
+    "form": "它",
+    "char": "它",
+    "pinyin": "ta1/tuo1",
+    "meaning": "虫也。从虫而長，象冤曲垂尾形。上古艸居患它，故相問無它乎。凡它之屬皆从它。",
+    "radical": "它部",
+    "category": "抽象"
+  },
+  {
+    "form": "龜",
+    "char": "龜",
+    "pinyin": "gui1",
+    "meaning": "舊也。外骨内肉者也。从它，龜頭與它頭同。天地之性，廣肩無雄；龜鼈之類，以它爲雄。",
+    "radical": "龜部",
+    "category": "抽象"
+  },
+  {
+    "form": "黽",
+    "char": "黽",
+    "pinyin": "meng3/min3",
+    "meaning": "鼃黽也。从它，象形。□頭與它頭同。凡□之屬皆从□。",
+    "radical": "黽部",
+    "category": "抽象"
+  },
+  {
+    "form": "卵",
+    "char": "卵",
+    "pinyin": "luan3",
+    "meaning": "凡物無乳者卵生。象形。凡卵之屬皆从卵。",
+    "radical": "卵部",
+    "category": "动物"
+  },
+  {
+    "form": "二",
+    "char": "二",
+    "pinyin": "er4",
+    "meaning": "地之數也。从偶一。凡二之屬皆从二。",
+    "radical": "二部",
+    "category": "数量"
+  },
+  {
+    "form": "土",
+    "char": "土",
+    "pinyin": "tu3",
+    "meaning": "地之吐生物者也。二象地之下、地之中，物出形也。凡土之屬皆从土。",
+    "radical": "土部",
+    "category": "自然"
+  },
+  {
+    "form": "垚",
+    "char": "垚",
+    "pinyin": "yao2",
+    "meaning": "土高也。从三土。凡垚之屬皆从垚。",
+    "radical": "垚部",
+    "category": "抽象"
+  },
+  {
+    "form": "堇",
+    "char": "堇",
+    "pinyin": "qin2/jin3",
+    "meaning": "黏土也。从土，从黃省。凡堇之屬皆从堇。",
+    "radical": "堇部",
+    "category": "抽象"
+  },
+  {
+    "form": "里",
+    "char": "里",
+    "pinyin": "li3",
+    "meaning": "居也。从田从土。凡里之屬皆从里。",
+    "radical": "里部",
+    "category": "抽象"
+  },
+  {
+    "form": "田",
+    "char": "田",
+    "pinyin": "tian2",
+    "meaning": "陳也。樹穀曰田。象四囗。十，阡陌之制也。凡田之屬皆从田。",
+    "radical": "田部",
+    "category": "抽象"
+  },
+  {
+    "form": "畕",
+    "char": "畕",
+    "pinyin": "jiang1",
+    "meaning": "比田也。从二田。凡畕之屬皆从畕。",
+    "radical": "畕部",
+    "category": "抽象"
+  },
+  {
+    "form": "黃",
+    "char": "黃",
+    "pinyin": "huang2",
+    "meaning": "地之色也。从田从炗，炗亦聲。炗，古文光。凡黃之屬皆从黃。",
+    "radical": "黃部",
+    "category": "抽象"
+  },
+  {
+    "form": "男",
+    "char": "男",
+    "pinyin": "nan2",
+    "meaning": "丈夫也。从田从力。言男用力於田也。凡男之屬皆从男。",
+    "radical": "男部",
+    "category": "抽象"
+  },
+  {
+    "form": "力",
+    "char": "力",
+    "pinyin": "li4",
+    "meaning": "筋也。象人筋之形。治功曰力，能圉大災。凡力之屬皆从力。",
+    "radical": "力部",
+    "category": "抽象"
+  },
+  {
+    "form": "劦",
+    "char": "劦",
+    "pinyin": "xie2",
+    "meaning": "同力也。从三力。《山海經》曰：\"惟號之山，其風若劦。\"凡劦之屬皆从劦。",
+    "radical": "劦部",
+    "category": "抽象"
+  },
+  {
+    "form": "金",
+    "char": "金",
+    "pinyin": "jin1",
+    "meaning": "五色金也。黃爲之長。久薶不生衣，百鍊不輕，从革不違。西方之行。生於土，从土；左右",
+    "radical": "金部",
+    "category": "自然"
+  },
+  {
+    "form": "幵",
+    "char": "幵",
+    "pinyin": "jian1",
+    "meaning": "平也。象二干對構，上平也。凡幵之屬皆从幵。徐鉉曰：\"幵但象物平，無音義也。\"",
+    "radical": "幵部",
+    "category": "抽象"
+  },
+  {
+    "form": "勺",
+    "char": "勺",
+    "pinyin": "zhuo2/shao2",
+    "meaning": "挹取也。象形，中有實，與包同意。凡勺之屬皆从勺。",
+    "radical": "勺部",
+    "category": "抽象"
+  },
+  {
+    "form": "几",
+    "char": "几",
+    "pinyin": "ji3",
+    "meaning": "踞几也。象形。《周禮》五几：玉几、雕几、彤几、□几、素几。凡几之屬皆从几。",
+    "radical": "几部",
+    "category": "器物"
+  },
+  {
+    "form": "且",
+    "char": "且",
+    "pinyin": "qie3/ju1",
+    "meaning": "薦也。从几，足有二橫，一其下地也。凡且之屬皆从且。",
+    "radical": "且部",
+    "category": "抽象"
+  },
+  {
+    "form": "斤",
+    "char": "斤",
+    "pinyin": "jin1",
+    "meaning": "斫木也。象形。凡斤之屬皆从斤。",
+    "radical": "斤部",
+    "category": "器物"
+  },
+  {
+    "form": "斗",
+    "char": "斗",
+    "pinyin": "dou3",
+    "meaning": "十升也。象形，有柄。凡斗之屬皆从斗。",
+    "radical": "斗部",
+    "category": "器物"
+  },
+  {
+    "form": "矛",
+    "char": "矛",
+    "pinyin": "mao2",
+    "meaning": "酋矛也。建於兵車，長二丈。象形。凡矛之屬皆从矛。",
+    "radical": "矛部",
+    "category": "器物"
+  },
+  {
+    "form": "車",
+    "char": "車",
+    "pinyin": "che1",
+    "meaning": "輿輪之緫名。夏后時奚仲所造。象形。凡車之屬皆从車。",
+    "radical": "車部",
+    "category": "抽象"
+  },
+  {
+    "form": "厽",
+    "char": "厽",
+    "pinyin": "lei3",
+    "meaning": "絫坺土爲牆壁。象形。凡厽之屬皆从厽。",
+    "radical": "厽部",
+    "category": "抽象"
+  },
+  {
+    "form": "四",
+    "char": "四",
+    "pinyin": "si4",
+    "meaning": "陰數也。象四分之形。凡四之屬皆从四。",
+    "radical": "四部",
+    "category": "抽象"
+  },
+  {
+    "form": "宁",
+    "char": "宁",
+    "pinyin": "zhu4",
+    "meaning": "辨積物也。象形。凡宁之屬皆从宁。",
+    "radical": "宁部",
+    "category": "抽象"
+  },
+  {
+    "form": "叕",
+    "char": "叕",
+    "pinyin": "zhuo2",
+    "meaning": "綴聯也。象形。凡叕之屬皆从叕。",
+    "radical": "叕部",
+    "category": "抽象"
+  },
+  {
+    "form": "亞",
+    "char": "亞",
+    "pinyin": "ya4",
+    "meaning": "醜也。象人局背之形。賈侍中說：以爲次弟也。凡亞之屬皆从亞。",
+    "radical": "亞部",
+    "category": "抽象"
+  },
+  {
+    "form": "五",
+    "char": "五",
+    "pinyin": "wu3",
+    "meaning": "五行也。从二，陰陽在天地閒交午也。凡五之屬皆从五。",
+    "radical": "五部",
+    "category": "数量"
+  },
+  {
+    "form": "六",
+    "char": "六",
+    "pinyin": "liu4",
+    "meaning": "《易》之數，陰變於六，正於八。从入从八。凡六之屬皆从六。",
+    "radical": "六部",
+    "category": "数量"
+  },
+  {
+    "form": "七",
+    "char": "七",
+    "pinyin": "qi1",
+    "meaning": "陽之正也。从一，微陰从中衺出也。凡七之屬皆从七。",
+    "radical": "七部",
+    "category": "数量"
+  },
+  {
+    "form": "九",
+    "char": "九",
+    "pinyin": "jiu3",
+    "meaning": "陽之變也。象其屈曲究盡之形。凡九之屬皆从九。",
+    "radical": "九部",
+    "category": "数量"
+  },
+  {
+    "form": "禸",
+    "char": "禸",
+    "pinyin": "rou2",
+    "meaning": "獸足蹂地也。象形，九聲。《尔疋》曰：\"狐貍貛貉醜，其足□，其迹厹。\"凡厹之屬皆从",
+    "radical": "禸部",
+    "category": "抽象"
+  },
+  {
+    "form": "嘼",
+    "char": "嘼",
+    "pinyin": "chu4/shou4",
+    "meaning": "□也。象耳、頭、足厹地之形。古文嘼，下从厹。凡嘼之屬皆从嘼。",
+    "radical": "嘼部",
+    "category": "抽象"
+  },
+  {
+    "form": "甲",
+    "char": "甲",
+    "pinyin": "jia3",
+    "meaning": "東方之孟，陽气萌動，从木戴孚甲之象。一曰人頭宐爲甲，甲象人頭。凡甲之屬皆从甲。",
+    "radical": "甲部",
+    "category": "抽象"
+  },
+  {
+    "form": "乙",
+    "char": "乙",
+    "pinyin": "yi3",
+    "meaning": "象春艸木冤曲而出，陰气尚彊，其出乙乙也。與丨同意。乙承甲，象人頸。凡乙之屬皆从乙",
+    "radical": "乙部",
+    "category": "抽象"
+  },
+  {
+    "form": "丙",
+    "char": "丙",
+    "pinyin": "bing3",
+    "meaning": "位南方，萬物成，炳然。陰气初起，陽气將虧。从一入冂。一者，陽也。丙承乙，象人肩。",
+    "radical": "丙部",
+    "category": "抽象"
+  },
+  {
+    "form": "丁",
+    "char": "丁",
+    "pinyin": "ding1",
+    "meaning": "夏時萬物皆丁實。象形。丁承丙，象人心。凡丁之屬皆从丁。",
+    "radical": "丁部",
+    "category": "抽象"
+  },
+  {
+    "form": "戊",
+    "char": "戊",
+    "pinyin": "wu4",
+    "meaning": "中宮也。象六甲五龍相拘絞也。戊承丁，象人脅。凡戊之屬皆从戊。",
+    "radical": "戊部",
+    "category": "抽象"
+  },
+  {
+    "form": "己",
+    "char": "己",
+    "pinyin": "ji3",
+    "meaning": "中宮也。象萬物辟藏詘形也。己承戊，象人腹。凡己之屬皆从己。",
+    "radical": "己部",
+    "category": "抽象"
+  },
+  {
+    "form": "巴",
+    "char": "巴",
+    "pinyin": "ba1",
+    "meaning": "蟲也。或曰食象蛇。象形。凡巴之屬皆从巴。",
+    "radical": "巴部",
+    "category": "抽象"
+  },
+  {
+    "form": "庚",
+    "char": "庚",
+    "pinyin": "geng1",
+    "meaning": "位西方，象秋時萬物庚庚有實也。庚承己，象人□。凡庚之屬皆从庚。",
+    "radical": "庚部",
+    "category": "抽象"
+  },
+  {
+    "form": "辛",
+    "char": "辛",
+    "pinyin": "xin1",
+    "meaning": "秋時萬物成而孰；金剛，味辛，辛痛即泣出。从一从□。□，辠也。辛承庚，象人股。凡辛",
+    "radical": "辛部",
+    "category": "抽象"
+  },
+  {
+    "form": "辡",
+    "char": "辡",
+    "pinyin": "bian3/bian4",
+    "meaning": "辠人相與訟也。从二辛。凡辡之屬皆从辡。",
+    "radical": "辡部",
+    "category": "抽象"
+  },
+  {
+    "form": "壬",
+    "char": "壬",
+    "pinyin": "ren2",
+    "meaning": "位北方也。陰極陽生，故《易》曰：\"龍戰于野。\"戰者，接也。象人褢妊之形。承亥壬以",
+    "radical": "壬部",
+    "category": "抽象"
+  },
+  {
+    "form": "癸",
+    "char": "癸",
+    "pinyin": "gui3",
+    "meaning": "冬時，水土平，可揆度也。象水從四方流入地中之形。癸承壬，象人足。凡癸之屬皆从癸。",
+    "radical": "癸部",
+    "category": "抽象"
+  },
+  {
+    "form": "子",
+    "char": "子",
+    "pinyin": "zi3",
+    "meaning": "十一月，陽气動，萬物滋，人以爲偁。象形。凡子之屬皆从子。(李陽冰曰：\"子在襁緥中",
+    "radical": "子部",
+    "category": "抽象"
+  },
+  {
+    "form": "了",
+    "char": "了",
+    "pinyin": "liao3",
+    "meaning": "尦也。从子無臂。象形。凡了之屬皆从了。",
+    "radical": "了部",
+    "category": "抽象"
+  },
+  {
+    "form": "孨",
+    "char": "孨",
+    "pinyin": "zhuan3",
+    "meaning": "謹也。从三子。凡孨之屬皆从孨。讀若翦。",
+    "radical": "孨部",
+    "category": "抽象"
+  },
+  {
+    "form": "丑",
+    "char": "丑",
+    "pinyin": "chou3",
+    "meaning": "紐也。十二月，萬物動，用事。象手之形。時加丑，亦舉手時也。凡丑之屬皆从丑。",
+    "radical": "丑部",
+    "category": "抽象"
+  },
+  {
+    "form": "寅",
+    "char": "寅",
+    "pinyin": "yin2",
+    "meaning": "髕也。正月，陽气動，去黃泉，欲上出，陰尚彊，象宀不達，髕寅於下也。凡寅之屬皆从寅",
+    "radical": "寅部",
+    "category": "抽象"
+  },
+  {
+    "form": "辰",
+    "char": "辰",
+    "pinyin": "chen2",
+    "meaning": "震也。三月，陽气動，靁電振，民農時也。物皆生，从乙、匕，象芒達；厂，聲也。辰，房",
+    "radical": "辰部",
+    "category": "自然"
+  },
+  {
+    "form": "巳",
+    "char": "巳",
+    "pinyin": "si4",
+    "meaning": "巳也。四月，陽气巳出，陰气巳藏，萬物見，成文章，故巳爲蛇，象形。凡巳之屬皆从巳。",
+    "radical": "巳部",
+    "category": "抽象"
+  },
+  {
+    "form": "午",
+    "char": "午",
+    "pinyin": "wu3",
+    "meaning": "啎也。五月，陰气午逆陽。冒地而出。此予矢同意。凡午之屬皆从午。",
+    "radical": "午部",
+    "category": "抽象"
+  },
+  {
+    "form": "未",
+    "char": "未",
+    "pinyin": "wei4",
+    "meaning": "味也。六月，滋味也。五行，木老於未。象木重枝葉也。凡未之屬皆从未。",
+    "radical": "未部",
+    "category": "抽象"
+  },
+  {
+    "form": "申",
+    "char": "申",
+    "pinyin": "shen1",
+    "meaning": "神也。七月，陰气成，體自申束。从臼，自持也。吏臣餔時聽事，申旦政也。凡申之屬皆从",
+    "radical": "申部",
+    "category": "抽象"
+  },
+  {
+    "form": "酉",
+    "char": "酉",
+    "pinyin": "you3",
+    "meaning": "就也。八月黍成，可爲酎酒。象古文酉之形。凡酉之屬皆从酉。",
+    "radical": "酉部",
+    "category": "抽象"
+  },
+  {
+    "form": "酋",
+    "char": "酋",
+    "pinyin": "qiu2",
+    "meaning": "繹酒也。从酉，水半見於上。《禮》有\"大酋\"，掌酒官也。凡酋之屬皆从酋。",
+    "radical": "酋部",
+    "category": "抽象"
+  },
+  {
+    "form": "戌",
+    "char": "戌",
+    "pinyin": "xu1",
+    "meaning": "滅也。九月，陽气微，萬物畢成，陽下入地也。五行，土生於戊，盛於戌。从戊含一。凡戌",
+    "radical": "戌部",
+    "category": "抽象"
+  },
+  {
+    "form": "亥",
+    "char": "亥",
+    "pinyin": "hai2/hai4",
+    "meaning": "荄也。十月，微陽起，接盛陰。从二，二，古文上字。一人男，一人女也。从乙，象褢子咳",
+    "radical": "亥部",
+    "category": "抽象"
+  }
+]
