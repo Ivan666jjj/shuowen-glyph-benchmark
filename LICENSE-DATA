@@ -1,0 +1,14 @@
+# 数据许可：Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+本仓库 `dataset/` 与 `results/` 目录下的数据采用 CC BY 4.0 许可释出。
+
+你可以自由地共享（以任何媒介或格式复制、发行本数据）与演绎（修改、转换、以本数据为基础再创作），
+惟须遵守以下条件：**署名** —— 必须给出适当署名、提供许可协议链接，并标明是否作了修改。
+
+许可全文：https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans
+
+建议署名格式：
+
+> 严毓焕. 字形表义性 Benchmark（Glyph Meaningfulness Benchmark）[DS/OL]. 2026. https://github.com/Ivan666jjj/shuowen-glyph-benchmark
+
+Copyright (c) 2026 严毓焕 (Yan Yuhuan)
