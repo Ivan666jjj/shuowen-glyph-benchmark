@@ -1,5 +1,10 @@
 # 字形表义性 Benchmark（Glyph Meaningfulness Benchmark）
 
+![License](https://img.shields.io/badge/license-MIT%20%2B%20CC%20BY%204.0-blue)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Status](https://img.shields.io/badge/status-v0.1.0-green)
+
+
 一套可复用的评测流程，用来检验“AI 造出来的字形是否承载意义”。
 本目录是从《说文》部首造字实验中抽出来的最小可复现版本。
 

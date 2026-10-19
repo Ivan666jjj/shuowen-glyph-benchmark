@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: pip install -r requirements.txt
+      - name: Syntax check
+        run: python -m py_compile scripts/make_rating_sheet.py scripts/llm_judge.py
+      - name: JSON validity
+        run: |
+          python - <<'PY'
+          import json
+          for f in [
+              "dataset/concepts.json",
+              "dataset/radicals.json",
+              "dataset/shuowen_sample.json",
+              "results/interpret_llm_judge.json",
+          ]:
+              json.load(open(f, encoding="utf-8"))
+              print("ok", f)
+          PY
