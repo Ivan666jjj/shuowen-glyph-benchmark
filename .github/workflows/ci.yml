@@ -26,7 +26,33 @@ jobs:
               "dataset/radicals.json",
               "dataset/shuowen_sample.json",
               "results/interpret_llm_judge.json",
+              "tests/fixtures/shuowen_interpret_sample.json",
           ]:
               json.load(open(f, encoding="utf-8"))
               print("ok", f)
+          PY
+      - name: Smoke test - rating sheet on fixture
+        run: |
+          python scripts/make_rating_sheet.py \
+            --input tests/fixtures/shuowen_interpret_sample.json \
+            --output /tmp/sheet.csv
+          python - <<'PY'
+          import csv
+          rows = list(csv.reader(open("/tmp/sheet.csv", encoding="utf-8-sig")))
+          assert rows[0] == ["序号", "字", "模型训释", "《说文》原文", "评分(0-5)", "备注"], rows[0]
+          assert len(rows) == 4, len(rows)
+          assert rows[1][0] == "1" and rows[1][4] == "", rows[1]
+          print("smoke ok:", len(rows) - 1, "rows")
+          PY
+      - name: Dataset counts
+        run: |
+          python - <<'PY'
+          import json
+          c = json.load(open("dataset/concepts.json", encoding="utf-8"))
+          r = json.load(open("dataset/radicals.json", encoding="utf-8"))
+          s = json.load(open("dataset/shuowen_sample.json", encoding="utf-8"))
+          print("concepts", len(c), "radicals", len(r), "shuowen_sample", len(s))
+          assert len(c) == 104, len(c)
+          assert len(r) == 468, len(r)
+          assert len(s) == 100, len(s)
           PY
