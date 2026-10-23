@@ -4,6 +4,7 @@
 用法：python3 llm_judge.py
 输出：../results/interpret_llm_judge.json
 """
+import argparse
 import json
 import os
 import re
@@ -28,13 +29,15 @@ SYSTEM = """你是文字学专家。下面给出一个字、模型的训释、�
 
 
 def load_key():
-    if os.environ.get("DEEPSEEK_API_KEY"):
-        return os.environ["DEEPSEEK_API_KEY"]
-    for line in open(os.path.expanduser("~/.reasonix/.env"), encoding="utf-8"):
-        line = line.strip()
-        if line.startswith("DEEPSEEK_API_KEY="):
-            return line.split("=", 1)[1].strip().strip('"').strip("'")
-    raise SystemExit("DEEPSEEK_API_KEY not found")
+    """只从环境变量读取，不读任何本地私密文件。"""
+    key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
+    if not key:
+        raise SystemExit(
+            "未找到 DEEPSEEK_API_KEY。请先设置环境变量，例如：\n"
+            "  export DEEPSEEK_API_KEY=sk-xxxxxxxx\n"
+            "（本脚本不会读取任何本地配置文件的明文密钥）"
+        )
+    return key
 
 
 def chat(prompt, key):
@@ -59,8 +62,13 @@ def chat(prompt, key):
 
 
 def main():
+    ap = argparse.ArgumentParser(description="LLM judge 代理评分（0–5）")
+    ap.add_argument("--input", default=SRC, help="输入 JSON（默认：../metrics/shuowen_interpret.json）")
+    ap.add_argument("--output", default=OUT, help="输出 JSON（默认：results/interpret_llm_judge.json）")
+    args = ap.parse_args()
+
     key = load_key()
-    m = json.load(open(SRC, encoding="utf-8"))
+    m = json.load(open(args.input, encoding="utf-8"))
     rows = []
     for r in m["rows"]:
         prompt = f"字：{r['char']}\n模型训释：{r['model']}\n《说文》原文：{r['gold']}"
@@ -82,7 +90,7 @@ def main():
         "distribution": {i: valid.count(i) for i in range(6)},
         "rows": rows,
     }
-    json.dump(out, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    json.dump(out, open(args.output, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"\nLLM judge 均值 {out['mean']:.2f} / 5，有效 {out['valid']}/{out['n']}")
     print("分布", out["distribution"])
 
