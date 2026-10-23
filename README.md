@@ -21,7 +21,7 @@
 
 | 文件 | 内容 |
 |---|---|
-| `dataset/concepts.json` | 105 个现代概念（造字的目标） |
+| `dataset/concepts.json` | 104 个现代概念（造字的目标） |
 | `dataset/radicals.json` | 468 个《说文》部首（形符池） |
 | `dataset/shuowen_sample.json` | 100 个《说文》原字（释字任务） |
 | `dataset/schema.md` | 字段说明 |
@@ -44,7 +44,21 @@ benchmark/
 ├── run_all.sh               # 一键跑评分部分
 ├── dataset/                 # 104 概念 / 468 部首 / 100 释字样本
 ├── scripts/                 # 评分表生成、LLM judge
-└── results/                 # 评分表、judge 结果、leaderboard
+├── results/                 # 评分表、judge 结果、leaderboard
+└── tests/                   # CI 用样例输入（非实验结果）
+```
+
+## 复现范围
+
+本仓库只包含**评分与统计**部分（评分表生成、LLM judge、结构指标复算）。
+
+- 造字 / 释字主实验脚本（`shuowen_lifecycle.js`、`shuowen_interpret.js`、`measures_enhanced.py`）依赖外部 Node.js 工程，**未随本仓库发布**，下文步骤 1–3 需在同一上级目录下执行；
+- 为了让评分部分能独立跑通，`tests/fixtures/shuowen_interpret_sample.json` 提供 3 条样例输入（`gold` 为《说文》原文，`model` 为示例输出，**非实验结果，请勿引用**）：
+
+```bash
+python3 scripts/make_rating_sheet.py \
+  --input tests/fixtures/shuowen_interpret_sample.json \
+  --output /tmp/sheet.csv
 ```
 
 ## 跑法
